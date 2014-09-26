@@ -1,0 +1,73 @@
+TO DO
+======
+- make sure Chisel and UBC's limestone & marble are oreDicted together.
+- oreDict GrowthCraft & HarvestCraft crops.
+- oreDict Natura Barley & HarvestCraft barley.
+- oreDict Natura & HarvestCraft crops.
+- Ore or Stone Generation mods: UBC, Chisel, TiC, Simple Ores2...
+- change vanilla fence/gate/door recipes to match 1.8
+- add 1.8-style fence/gate/door recipes for Natura woods.
+- Add Natura, EBXL woods, UBC stones to allowed Archimedes' ship blocks (or any other mods' stones & woods)
+- Ore generation between mods.
+- Spawner config -- consider just blacklisting all biomes except Hell and using it to remove NitroCreepers.
+- configure Ruins
+- add recipes for Ashenwheat crops to substitude in HarvestCraft recipes.
+
+-------------
+Crop Overlap
+-------------
+<Natura:BerryBush> -- Raspberry Bush
+<Natura:berry> -- Raspberry
+<harvestcraft:raspberryItem> -- Raspberry
+<harvestcraft:raspberryseedItem> -- Raspberry Seed - REMOVE
+<harvestcraft:pamraspberryCrop> -- Raspberry Crop - REMOVE
+<harvestcraft:blackberryItem> -- Blackberry
+<harvestcraft:blackberryseedItem> -- Blackberry Seed - REMOVE
+<harvestcraft:pamblackberryCrop> -- Blackberry Crop - REMOVE
+<harvestcraft:blueberryItem> -- Blueberry
+<harvestcraft:blueberryseedItem> -- Blueberry Seed - REMOVE
+<harvestcraft:pamblueberryCrop> -- Blueberry Crop - REMOVE
+
+<Natura:barley.seed> -- Barley Seeds
+<Natura:barleyFood> -- Barley
+<harvestcraft:barleyseedItem> -- Barley Seed - REMOVE
+<harvestcraft:barleyItem> -- Barley - REMOVE
+<harvestcraft:pambarleyCrop> -- Barley Crop - REMOVE
+
+
+<Natura:saguaro.fruit> -- Saguaro Fruit
+<harvestcraft:cactusfruitItem> -- Cactus Fruit
+
+<Natura:waterdrop> -- Cactus Juice
+<harvestcraft:cactusfruitjuiceItem> -- Cactus Fruit Juice
+
+<harvestcraft:cottonItem> -- Cotton
+<harvestcraft:cottonseedItem> -- Cotton Seed
+<harvestcraft:pamcottonCrop> -- Cotton Crop
+
+<harvestcraft:bambooshootItem> -- Bamboo Shoot
+<harvestcraft:bambooshootseedItem> -- Bamboo Shoot Seed
+
+<harvestcraft:grapeItem> -- Grape
+<harvestcraft:grapeseedItem> -- Grape Seed - REMOVE
+<harvestcraft:pamgrapeCrop> -- Grape Crop - REMOVE
+
+-------------
+Ores & Stones
+-------------
+<UndergroundBiomes:igneousStone> -- Red Granite
+<UndergroundBiomes:ligniteCoal> -- Lignite
+<UndergroundBiomes:metamorphicStone> -- Gneiss
+<UndergroundBiomes:sedimentaryStone> -- Limestone
+<netherrocks:argonite_ore> -- Argonite Ore
+<netherrocks:ashstone_ore> -- Ashstone Ore
+<netherrocks:dragonstone_ore> -- Dragonstone Ore
+<netherrocks:fyrite_ore> -- Fyrite Ore
+<netherrocks:illumenite_ore> -- Illumenite Ore
+<netherrocks:malachite_ore> -- Malachite Ore
+<simpleores:adamantium_ore> -- Adamantium Ore
+<simpleores:copper_ore> -- Copper Ore
+<simpleores:mythril_ore> -- Mythril Ore
+<simpleores:onyx_ore> -- Onyx Ore
+<simpleores:tin_ore> -- Tin Ore
+
