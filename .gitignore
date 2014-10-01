@@ -29,3 +29,5 @@ mods/*
 !mods/ruins.txt
 !mods/resources/ruins/*
 
+*.csv
+1213309934
