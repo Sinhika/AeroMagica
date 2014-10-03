@@ -30,10 +30,18 @@ Crop Overlap
 
 <Natura:barley.seed> -- Barley Seeds
 <Natura:barleyFood> -- Barley
+<Natura:N Crops> -- tile.null.name
 <harvestcraft:barleyseedItem> -- Barley Seed - REMOVE
 <harvestcraft:barleyItem> -- Barley - REMOVE
 <harvestcraft:pambarleyCrop> -- Barley Crop - REMOVE
+Ore entries for <ore:cropBarley> : -- add Natura barley
+     <harvestcraft:barleyItem>
+Ore entries for <ore:seedBarley> : -- add Natura barley seeds
+     <harvestcraft:barleyseedItem>
 
+<ore:listAllgrain> - add natura barley to oredict list
+
+<Natura:barleyFood:8> as dyeBlue?? - REMOVE from oredict
 
 <Natura:saguaro.fruit> -- Saguaro Fruit
 <harvestcraft:cactusfruitItem> -- Cactus Fruit
@@ -44,6 +52,11 @@ Crop Overlap
 <harvestcraft:cottonItem> -- Cotton
 <harvestcraft:cottonseedItem> -- Cotton Seed
 <harvestcraft:pamcottonCrop> -- Cotton Crop
+<Natura:N Crops> -- tile.null.name
+Ore entries for <ore:cropCotton> :
+     <harvestcraft:cottonItem>
+ Ore entries for <ore:seedCotton> :
+     <harvestcraft:cottonseedItem>
 
 <harvestcraft:bambooshootItem> -- Bamboo Shoot
 <harvestcraft:bambooshootseedItem> -- Bamboo Shoot Seed

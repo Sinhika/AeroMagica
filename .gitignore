@@ -20,6 +20,7 @@ logs/*
 journeyMap/*
 resourcepacks/*
 saves/*
+unused_mods/*
 *.log
 *.png
 .project
