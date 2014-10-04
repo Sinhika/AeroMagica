@@ -2,8 +2,12 @@ TO DO
 ======
 - make sure Chisel and UBC's limestone & marble are oreDicted together.
 - oreDict GrowthCraft & HarvestCraft crops.
-- oreDict Natura Barley & HarvestCraft barley.
+- HC grapes become "Wild Grapes" and are useable in HC recipes but not Growthcraft.
 - oreDict Natura & HarvestCraft crops.
+- Add natura berries to listAllfruit
+- add all seeds to ore dict
+- Make melon a fruit
+- Add lettuce variants to an ore dictionary tag
 - Ore or Stone Generation mods: UBC, Chisel, TiC, Simple Ores2...
 - change vanilla fence/gate/door recipes to match 1.8
 - add 1.8-style fence/gate/door recipes for Natura woods.
@@ -11,7 +15,7 @@ TO DO
 - Ore generation between mods.
 - Spawner config -- consider just blacklisting all biomes except Hell and using it to remove NitroCreepers.
 - configure Ruins
-- add recipes for Ashenwheat crops to substitude in HarvestCraft recipes.
+- add recipes for Ashenwheat crops to substitute in HarvestCraft recipes.
 
 -------------
 Crop Overlap
@@ -28,20 +32,8 @@ Crop Overlap
 <harvestcraft:blueberryseedItem> -- Blueberry Seed - REMOVE
 <harvestcraft:pamblueberryCrop> -- Blueberry Crop - REMOVE
 
-<Natura:barley.seed> -- Barley Seeds
-<Natura:barleyFood> -- Barley
 <Natura:N Crops> -- tile.null.name
-<harvestcraft:barleyseedItem> -- Barley Seed - REMOVE
-<harvestcraft:barleyItem> -- Barley - REMOVE
 <harvestcraft:pambarleyCrop> -- Barley Crop - REMOVE
-Ore entries for <ore:cropBarley> : -- add Natura barley
-     <harvestcraft:barleyItem>
-Ore entries for <ore:seedBarley> : -- add Natura barley seeds
-     <harvestcraft:barleyseedItem>
-
-<ore:listAllgrain> - add natura barley to oredict list
-
-<Natura:barleyFood:8> as dyeBlue?? - REMOVE from oredict
 
 <Natura:saguaro.fruit> -- Saguaro Fruit
 <harvestcraft:cactusfruitItem> -- Cactus Fruit
