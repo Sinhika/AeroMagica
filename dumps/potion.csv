@@ -1,0 +1,39 @@
+ID,Unlocalised name,Class
+1,potion.moveSpeed,net.minecraft.potion.Potion
+2,potion.moveSlowdown,net.minecraft.potion.Potion
+3,potion.digSpeed,net.minecraft.potion.Potion
+4,potion.digSlowDown,net.minecraft.potion.Potion
+5,potion.damageBoost,net.minecraft.potion.PotionAttackDamage
+6,potion.heal,net.minecraft.potion.PotionHealth
+7,potion.harm,net.minecraft.potion.PotionHealth
+8,potion.jump,net.minecraft.potion.Potion
+9,potion.confusion,net.minecraft.potion.Potion
+10,potion.regeneration,net.minecraft.potion.Potion
+11,potion.resistance,net.minecraft.potion.Potion
+12,potion.fireResistance,net.minecraft.potion.Potion
+13,potion.waterBreathing,net.minecraft.potion.Potion
+14,potion.invisibility,net.minecraft.potion.Potion
+15,potion.blindness,net.minecraft.potion.Potion
+16,potion.nightVision,net.minecraft.potion.Potion
+17,potion.hunger,net.minecraft.potion.Potion
+18,potion.weakness,net.minecraft.potion.PotionAttackDamage
+19,potion.poison,net.minecraft.potion.Potion
+20,potion.wither,net.minecraft.potion.Potion
+21,potion.healthBoost,net.minecraft.potion.PotionHealthBoost
+22,potion.absorption,net.minecraft.potion.PotionAbsoption
+23,potion.saturation,net.minecraft.potion.PotionHealth
+24,potion.fluxtaint,thaumcraft.api.potions.PotionFluxTaint
+25,potion.visexhaust,thaumcraft.api.potions.PotionVisExhaust
+26,potion.infvisexhaust,thaumcraft.common.lib.potions.PotionInfectiousVisExhaust
+27,potion.unhunger,thaumcraft.common.lib.potions.PotionUnnaturalHunger
+28,potion.warpward,thaumcraft.common.lib.potions.PotionWarpWard
+29,potion.deathgaze,thaumcraft.common.lib.potions.PotionDeathGaze
+30,potion.blurred,thaumcraft.common.lib.potions.PotionBlurredVision
+31,potion.binding,flaxbeard.thaumicexploration.misc.TXPotion
+32,potion.taintWithdrawl,flaxbeard.thaumicexploration.misc.TXTaintPotion
+33,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
+50,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
+86,Fire Imbued,thaumic.tinkerer.common.potion.DummyPotions
+87,Wated Imbued,thaumic.tinkerer.common.potion.DummyPotions
+89,Earth Imbued,thaumic.tinkerer.common.potion.DummyPotions
+90,Air Imbued,thaumic.tinkerer.common.potion.DummyPotions
