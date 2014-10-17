@@ -1,0 +1,22 @@
+DONE LIST
+=========
+- Spawner config -- just blacklist all biomes except Hell; 
+		use Hell config to remove NitroCreepers - DONE
+- turned down negative node effects in ThaumCraft - DONE
+- HarvestCraft Rye & Oats drop from tall grass - DONE
+- HarvestCraft Rice, Barley, Cotton drop from tall grass so they can be removed - DONE
+- HarvestCraft Blackberry, Blueberry & Raspberry drop from tall grass for removal - DONE
+- Natura Barley vs HarvestCraft Barley - DONE
+- Natura Cotton vs HarvestCraft Cotton - DONE
+- GrowthCraft Rice vs HarvestCraft Rice - DONE
+- Natura Blackberry vs HarvestCraft Blackberry - DONE
+- Natura Blueberry vs HarvestCraft Blueberry - DONE
+- Natura Raspberry vs HarvestCraft Raspberry - DONE
+- Natura crops all added to ore dictionary - DONE
+- GrowthCraft Bamboo vs HarvestCraft Bamboo - DONE
+- GrowthCraft Grapes vs HarvestCraft Grapes - DONE, but check wine-making.
+- made melon a fruit - DONE
+- scintillawheat bread can be toasted - DONE
+- added OceanCraft foods to Meat, Chicken & Fish oredict groups - DONE
+- Ashenwheat grains added to AllGrains oredict group - DONE
+- Archimedes's ships blocks; used blacklist instead - DONE
