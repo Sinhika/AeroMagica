@@ -12,16 +12,11 @@
 # SPECIFIC MEATS
 <ore:listAllchickencooked>.add(<Oceancraft:CookedBird>);
 <ore:listAllchickenraw>.add(<Oceancraft:RawBird>);
-#<ore:listAllbeefraw>.add();
-#<ore:listAllbeefcooked>.add();
-#<ore:listAllporkraw>.add();
-#<ore:listAllmuttonraw>.add();
-#<ore:listAllmuttoncooked>.add();
 
 # MEAT/FLESH
 <ore:listAllmeatraw>.add(<Oceancraft:RawTurtleMeat>);
 <ore:listAllmeatcooked>.add(<Oceancraft:CookedTurtleMeat>);
 
 # lastly
-<ore:listAllmeatcooked>.addAll(ore:listAllchickencooked>);
+<ore:listAllmeatcooked>.addAll(<ore:listAllchickencooked>);
 <ore:listAllmeatraw>.addAll(<ore:listAllchickenraw>);

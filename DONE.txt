@@ -20,3 +20,4 @@ DONE LIST
 - added OceanCraft foods to Meat, Chicken & Fish oredict groups - DONE
 - Ashenwheat grains added to AllGrains oredict group - DONE
 - Archimedes's ships blocks; used blacklist instead - DONE
+- turned OFF HarvestCraft apple saplings in config - DONE

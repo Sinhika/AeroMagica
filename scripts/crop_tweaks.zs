@@ -53,41 +53,28 @@ vanilla.seeds.removeSeed(<harvestcraft:riceseedItem>);
 # GrowthCraft stuff is already ore-dictified.
 
 # APPLES
-# TODO - have not decided between GrowthCraft and HarvestCraft apple trees
 
-# BLACKBERRY
-vanilla.seeds.removeSeed(<harvestcraft:blackberryseedItem>);
-
-# BLUEBERRY
-vanilla.seeds.removeSeed(<harvestcraft:blueberryseedItem>);
 
 # RASPBERRY
 vanilla.seeds.removeSeed(<harvestcraft:raspberryseedItem>);
+<ore:listAllfruit>.add(<Natura:berry>);
+<ore:listAllberry>.add(<Natura:berry>);
 
-# OTHER NATURA BERRIES
-# Natura berries already ore-dictified. Mostly.
-<ore:listAllfruit>.add(<Natura:berry:*>);
-<ore:listAllberry>.add(<Natura:berry:*>);
-<ore:listAllfruit>.add(<Natura:berry.nether:*>);
-<ore:listAllberry>.add(<Natura:berry.nether:*>);
+# BLACKBERRY
+vanilla.seeds.removeSeed(<harvestcraft:blackberryseedItem>);
+<ore:listAllfruit>.add(<Natura:berry:2>);
+<ore:listAllberry>.add(<Natura:berry:2>);
+
+# BLUEBERRY
+vanilla.seeds.removeSeed(<harvestcraft:blueberryseedItem>);
+<ore:listAllfruit>.add(<Natura:berry:1>);
+<ore:listAllberry>.add(<Natura:berry:1>);
 
 # CACTUS
 <ore:listAllfruit>.add(<Natura:saguaro.fruit>);
 <ore:cropCactusfruit>.add(<Natura:saguaro.fruit>);
 <ore:listAlljuice>.add(<Natura:waterdrop>);
 <ore:foodCactusfruitjuice>.add(<Natura:waterdrop>);
-
-# BAMBOO
-<harvestcraft:bambooshootItem>.displayName = "Dwarf Bamboo Shoot";
-<harvestcraft:bambooshootseedItem>.displayName = "Dwarf Bamboo Seed";
-
-# GRAPES
-<harvestcraft:grapeItem>.displayName = "Wild Grapes";
-<harvestcraft:grapeseedItem>.displayName = "Wild Grape Seed";
-<harvestcraft:pamgrapeCrop>.displayName = "Wild Grape Vine";
-<ore:cropGrapes>.mirror(<ore:cropGrape>);
-<ore:foodGrapes>.add(<harvestcraft:grapeItem>);
-<ore:seedGrapes>.mirror(<ore:seedGrape>);
 
 # BREAD/TOAST
 # but not ashenBread because it already smelts into charcoal
@@ -106,6 +93,30 @@ furnace.addRecipe(<harvestcraft:toastItem>, <ashenwheat:scintillaBread>);
 <ore:listAllmushroom>.add(<Natura:Glowshroom:*>);
 
 # ROOTS
-<ore:listAllrootveggie>.add(<minecraft.potato>);
-<ore:listAllrootveggie>.add(<minecraft.carrot>);
+<ore:listAllrootveggie>.add(<minecraft:potato>);
+<ore:listAllrootveggie>.add(<minecraft:carrot>);
 
+# BAMBOO
+<harvestcraft:bambooshootItem>.displayName = "Dwarf Bamboo Shoot";
+<harvestcraft:bambooshootseedItem>.displayName = "Dwarf Bamboo Seed";
+
+# GRAPES
+<harvestcraft:grapeItem>.displayName = "Wild Grapes";
+<harvestcraft:grapeseedItem>.displayName = "Wild Grape Seed";
+<harvestcraft:pamgrapeCrop>.displayName = "Wild Grape Vine";
+<ore:cropGrapes>.mirror(<ore:cropGrape>);
+<ore:foodGrapes>.add(<harvestcraft:grapeItem>);
+<ore:seedGrapes>.mirror(<ore:seedGrape>);
+
+# OTHER NATURA BERRIES
+# Natura berries already ore-dictified. Mostly.
+<ore:listAllfruit>.add(<Natura:berry:3>);
+<ore:listAllberry>.add(<Natura:berry:3>);
+<ore:listAllfruit>.add(<Natura:berry.nether>);
+<ore:listAllberry>.add(<Natura:berry.nether>);
+<ore:listAllfruit>.add(<Natura:berry.nether:1>);
+<ore:listAllberry>.add(<Natura:berry.nether:1>);
+<ore:listAllfruit>.add(<Natura:berry.nether:2>);
+<ore:listAllberry>.add(<Natura:berry.nether:2>);
+<ore:listAllfruit>.add(<Natura:berry.nether:3>);
+<ore:listAllberry>.add(<Natura:berry.nether:3>);

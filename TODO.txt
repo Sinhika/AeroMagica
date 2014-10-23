@@ -1,12 +1,13 @@
 TO DO
 ======
 - make sure Chisel and UBC's limestone & marble are oreDicted together.
-- oreDict GrowthCraft & HarvestCraft crops. - decide on apples and/or honey
 - Ore or Stone Generation mods: UBC, Chisel, TiC, Simple Ores2...
 - change vanilla fence/gate/door recipes to match 1.8
 - add 1.8-style fence/gate/door recipes for Natura woods.
 - Ore generation between mods.
+- bacon & bacon jerky from TiC--find and oredict with cooked pork.
 - configure Ruins
+- when akkamaddi's Additions are complete, add them.
 
 -------------
 Ores & Stones
