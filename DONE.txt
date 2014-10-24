@@ -21,3 +21,10 @@ DONE LIST
 - Ashenwheat grains added to AllGrains oredict group - DONE
 - Archimedes's ships blocks; used blacklist instead - DONE
 - turned OFF HarvestCraft apple saplings in config - DONE
+- Tinker's Construct and Simple Ores copper, tin & bronze were already ore-dictified - DONE
+- turned OFF TiC copper & tin generation.
+- Added a bunch of akkamaddi stuff - DONE
+- ore-dicted UBC limestone & Marble w/Chisel's
+- disabled ExtraUtilities colored blocks
+
+

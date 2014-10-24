@@ -1,0 +1,200 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 10/24/14 12:09 PM
+Description: Initializing game
+
+java.lang.NullPointerException: Ore dictionary item not found: ingotCoal
+	at ganymedes01.aobd.recipes.RecipesModule.getOreDictItem(RecipesModule.java:22)
+	at ganymedes01.aobd.recipes.RecipesModule.getOreDictItem(RecipesModule.java:10)
+	at ganymedes01.aobd.recipes.RecipesHandler.craftingRecipes(RecipesHandler.java:44)
+	at ganymedes01.aobd.recipes.RecipesHandler.init(RecipesHandler.java:17)
+	at ganymedes01.aobd.AOBD.init(AOBD.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:513)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:208)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:187)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:118)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:288)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at ganymedes01.aobd.recipes.RecipesModule.getOreDictItem(RecipesModule.java:22)
+	at ganymedes01.aobd.recipes.RecipesModule.getOreDictItem(RecipesModule.java:10)
+	at ganymedes01.aobd.recipes.RecipesHandler.craftingRecipes(RecipesHandler.java:44)
+	at ganymedes01.aobd.recipes.RecipesHandler.init(RecipesHandler.java:17)
+	at ganymedes01.aobd.AOBD.init(AOBD.java:86)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:513)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:208)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:187)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:118)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:691)
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:288)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:541)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:867)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_60, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 845127744 bytes (805 MB) / 1280311296 bytes (1221 MB) up to 1852833792 bytes (1767 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx1988M -Xms1G
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.85.1231 Minecraft Forge 10.13.2.1231 71 mods loaded, 71 mods active
+	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	FML{7.10.85.1231} [Forge Mod Loader] (forge-1.7.10-10.13.2.1231.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Forge{10.13.2.1231} [Minecraft Forge] (forge-1.7.10-10.13.2.1231.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	CodeChickenCore{1.0.3.26} [CodeChicken Core] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	<CoFH ASM>{000} [CoFH ASM Data Initialization] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	NotEnoughItems{1.0.3.57} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.3.57-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	ThaumicTinkerer-preloader{0.1} [Thaumic Tinkerer Core] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	simpleores{1.4.3} [SimpleOres 2] ([1.7.10] SimpleOres 2   Plugins v1.4.3 .jar) Unloaded->Constructed->Pre-initialized->Initialized
+	aestheticsplugin{1.0.0} [SimpleOres 2 Aesthetics Plugin] ([1.7.10] SimpleOres 2   Plugins v1.4.3 .jar) Unloaded->Constructed->Pre-initialized->Initialized
+	fusionplugin{1.4.3} [SimpleOres 2 Fusion Plugin] ([1.7.10] SimpleOres 2   Plugins v1.4.3 .jar) Unloaded->Constructed->Pre-initialized->Initialized
+	netherrocks{1.1.2} [SimpleOres 2 Netherrocks Plugin] ([1.7.10] SimpleOres 2   Plugins v1.4.3 .jar) Unloaded->Constructed->Pre-initialized->Initialized
+	akkamaddicore{1.7.10-1.0.3} [akkamaddi's Core API] (akkamaddiCore-1.7.10-1.0.3.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	AppleCore{1.0.0} [AppleCore] (AppleCore-mc1.7.10-1.0.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	ArchimedesShips{1.7.10 v1.7.1} [Archimedes' Ships] (ArchimedesShips-1.7.1.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	ashenwheat{1.7.10-1.2.0} [Ashenwheat] (ashenwheat-1.7.10-1.2.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Backpack{2.0.0} [Backpack] (backpack-2.0.0-1.7.x.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BiblioCraft{1.8.2} [BiblioCraft] (BiblioCraft[v1.8.2][MC1.7.10].jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BiblioWoodsBoP{1.8} [BiblioWoods Biomes O'Plenty Edition] (BiblioWoods[BiomesOPlenty][v1.8].jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BiblioWoodsEBXL{1.2} [BiblioWoods ExtraBiomesXL Edition] (BiblioWoods[ExtraBiomesXL][v1.2].jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Mantle{1.7.10-0.3.1.jenkins180} [Mantle] (Mantle-mc1.7.10-0.3.1.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Natura{2.2.0} [Natura] (natura-1.7.10-2.2.0-b1.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	BiblioWoodsNatura{1.4} [BiblioWoods Natura Edition] (BiblioWoods[Natura][v1.4].jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Baubles{1.0.1.8} [Baubles] (Baubles-1.7.10-1.0.1.8.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Thaumcraft{4.2.0.1} [Thaumcraft] (Thaumcraft-1.7.10-4.2.0.1.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Botania{r1.2-127} [Botania] (Botania r1.2-127.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	chisel{1.5.7} [Chisel] (Chisel-1.7.10-1.5.7.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	CoFHCore{1.7.10R3.0.0B6} [CoFH Core] (CoFHCore-[1.7.10]3.0.0B6-32.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	ExtrabiomesXL{3.16.0} [ExtrabiomesXL] (extrabiomesxl_1.7.10-3.16.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Waila{1.5.4a} [Waila] (Waila-1.5.4a_1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	TConstruct{1.7.10-1.7.0.build665} [Tinkers' Construct] (TConstruct-1.7.10-1.7.0d2.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	ExtraTiC{0.8.4} [ExtraTiC] (ExtraTiC-1.7.10-1.0.3.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	ExtraUtilities{1.1.0k} [Extra Utilities] (extrautilities-1.1.0k.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	FastCraft{1.9} [FastCraft] (fastcraft-1.9.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	FlatSigns{2.0.0.17} [Flat Signs] (FlatSigns-1.7.10-universal-2.0.0.17.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	GardenCore{1.2.0} [Garden Core] (GardenStuff-1.7.10-1.2.1.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	GardenContainers{1.2.1} [Garden Containers] (GardenStuff-1.7.10-1.2.1.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	GardenTrees{1.2.0} [Garden Trees] (GardenStuff-1.7.10-1.2.1.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Growthcraft{2.1.0a} [Growthcraft] (growthcraft-core-1.7.10-2.1.0a.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Growthcraft|Cellar{2.1.0a} [Growthcraft Cellar] (growthcraft-cellar-1.7.10-2.1.0a.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Growthcraft|Apples{2.1.0} [Growthcraft Apples] (growthcraft-apples-1.7.10-2.1.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Growthcraft|Bamboo{2.1.0} [Growthcraft Bamboo] (growthcraft-bamboo-1.7.10-2.1.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Growthcraft|Bees{2.1.0} [Growthcraft Bees] (growthcraft-bees-1.7.10-2.1.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Growthcraft|Fishtrap{2.1.0a} [Growthcraft Fishtrap] (growthcraft-fishtrap-1.7.10-2.1.0a.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Growthcraft|Grapes{2.1.0} [Growthcraft Grapes] (growthcraft-grapes-1.7.10-2.1.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Growthcraft|Hops{2.1.0} [Growthcraft Hops] (growthcraft-hops-1.7.10-2.1.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Growthcraft|Rice{2.1.0a} [Growthcraft Rice] (growthcraft-rice-1.7.10-2.1.0a.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	haditecoal{1.2.0} [Hadite Coal] (hadite-1.7.10-1.2.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	JABBA{1.1.4} [JABBA] (Jabba-1.1.4_1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	journeymap{4.0.5} [JourneyMap] (JourneyMap4.0.5_Unlimited_MC1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	LunatriusCore{1.1.2.14} [LunatriusCore] (LunatriusCore-1.7.10-1.1.2.14-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	MineTweaker3{${version}} [MineTweaker 3] (MineTweaker3-1.7.10-3.0.8B.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	ObsidianBoat{v1.3.2} [Obsidian Boat] (ObsidianBoat-1.7.10-1.3.2.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Oceancraft{1.4.1} [Oceancraft] (Oceancraft-1.4.1.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	onlysilver{1.9.4-1.7.2} [OnlySilver] (OnlySilver-1.9.4-1.7.2.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	desertcraft{1.7.2b} [Pam's DesertCraft] (Pam's DesertCraft 1.7.10a.zip) Unloaded->Constructed->Pre-initialized->Initialized
+	harvestcraft{1.7.10b} [Pam's HarvestCraft] (Pam's HarvestCraft 1.7.10b.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	AS_Ruins{13.8} [Ruins Spawning System] (Ruins-1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Schematica{1.7.2.97} [Schematica] (Schematica-1.7.10-1.7.2.97-universal.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	sinhikabark{1.7.2-0.03} [Sinhika's Bark] (SinhikaBark-1.7.2-0.03.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	SpiceOfLife{1.2.1} [The Spice of Life] (SpiceOfLife-mc1.7.10-1.2.1.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	sterlingandblack{1.7.10-1.4.2} [Sterling and Black] (SterlingAndBlack-1.7.10-1.4.2.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	StorageDrawers{1.1.4} [Storage Drawers] (StorageDrawers-1.7.10-1.1.4.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	ThaumicTinkerer{2.5-1.7.10-158} [Thaumic Tinkerer] (ThaumicTinkerer-2.5-1.7.10-158.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	ThaumicExploration{0.6.0} [Thaumic Exploration] (ThaumicExploration-1.7.10-1.1-17.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	TiCTooltips{1.1.11b} [TiC Tooltips] (TiCTooltips-mc1.7.10-1.1.11b.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	UndergroundBiomes{0.6h} [Underground Biomes Constructs] (UndergroundBiomesConstructs-1.7.2-0.6h11.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	AS_UpdateCheck{1.1.6} [AtomicStryker Update Check Mod] (UpdateCheckerMod-1.7.10.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	WailaHarvestability{1.1.0} [Waila Harvestability] (WailaHarvestability-mc1.7.x-1.1.0.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	aobd{2.2.4} [Another One Bites The Dust] (AOBD-2.2.4.jar) Unloaded->Constructed->Pre-initialized->Errored
+	JustAnotherSpawner{0.14.12} [Just Another Spawner] (JustAnotherSpawner-0.14.12.jar) Unloaded->Constructed->Pre-initialized->Initialized
+	Mantle Environment: Environment healthy.
+	TConstruct Environment: Environment healthy.
+	Launched Version: 1.7.10-Forge10.13.2.1231
+	LWJGL: 2.9.1
+	OpenGL: ATI Mobility Radeon HD 5400 Series GL version 4.2.12217 Compatibility Profile Context 12.104.0.0, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Anisotropic filtering is supported and maximum anisotropy is 16.
+Shaders are available because OpenGL 2.1 is supported.
+
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: [faithful32pack.zip]
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Anisotropic Filtering: Off (1)

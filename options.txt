@@ -103,10 +103,6 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_key.tarmor:0
-key_key.tgoggles:0
-key_key.tbelt:0
-key_key.tzoom:0
 key_ttmisc.toggleArmor:22
 key_key.journeymap.hotkeys_toggle:36
 key_key.journeymap.zoom_in:13
