@@ -24,7 +24,8 @@ DONE LIST
 - Tinker's Construct and Simple Ores copper, tin & bronze were already ore-dictified - DONE
 - turned OFF TiC copper & tin generation.
 - Added a bunch of akkamaddi stuff - DONE
-- ore-dicted UBC limestone & Marble w/Chisel's
-- disabled ExtraUtilities colored blocks
+- ore-dicted UBC limestone & Marble w/Chisel's - DONE
+- disabled ExtraUtilities colored blocks - DONE
+
 
 
