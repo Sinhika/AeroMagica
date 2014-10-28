@@ -26,6 +26,8 @@ DONE LIST
 - Added a bunch of akkamaddi stuff - DONE
 - ore-dicted UBC limestone & Marble w/Chisel's - DONE
 - disabled ExtraUtilities colored blocks - DONE
+- installed Carpenter's Blocks - DONE
+- ore-dicted BOP limstone with the rest - DONE
 
 
 

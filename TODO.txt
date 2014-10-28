@@ -7,9 +7,13 @@ TO DO
 - bacon & bacon jerky from TiC--find and oredict with cooked pork.
 - configure Ruins
 - - do not need "Simple Cthon" or "Golden Glitter"
-- install Carpenter's Blocks
 - update Botanica
 - update Schematica
+- update Ruins
 - enable Simple Ores/Additions ore gen in Deep Darks.
+- integrate BOP stuff
+- JustAnotherSpawner for MoCreatures stuff.
+- integrate MoCreatures stuff (Dimension ID=-17)
+
 
 

@@ -1,44 +1,44 @@
 ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Class
-0,Ocean,0.5,0.5,0.1,-1.0,0.1,OCEAN,biomesoplenty.common.biome.overridden.BiomeGenBOPOcean
-1,Plains,0.8,0.4,0.1,0.125,0.05,PLAINS,biomesoplenty.common.biome.overridden.BiomeGenBOPPlains
-2,Desert,2.0,0.0,0.1,0.125,0.05,"HOT, DRY, SANDY",biomesoplenty.common.biome.overridden.BiomeGenBOPDesert
-3,Extreme Hills,0.2,0.3,0.1,1.0,0.5,"MOUNTAIN, HILLS",biomesoplenty.common.biome.overridden.BiomeGenBOPExtremeHills
-4,Forest,0.7,0.8,0.1,0.1,0.2,FOREST,biomesoplenty.common.biome.overridden.BiomeGenBOPForest
-5,Taiga,0.25,0.8,0.1,0.2,0.2,"COLD, CONIFEROUS, FOREST",biomesoplenty.common.biome.overridden.BiomeGenBOPTaiga
-6,Swampland,0.8,0.9,0.1,-0.2,0.1,"WET, SWAMP",biomesoplenty.common.biome.overridden.BiomeGenBOPSwamp
-7,River,0.5,0.5,0.1,-0.5,0.0,RIVER,biomesoplenty.common.biome.overridden.BiomeGenBOPRiver
-8,Hell,2.0,0.0,0.1,0.1,0.2,"HOT, DRY, NETHER",biomesoplenty.common.biome.overridden.BiomeGenBOPHell
+0,Ocean,0.5,0.5,0.1,-1.0,0.1,OCEAN,net.minecraft.world.biome.BiomeGenOcean
+1,Plains,0.8,0.4,0.1,0.125,0.05,PLAINS,net.minecraft.world.biome.BiomeGenPlains
+2,Desert,2.0,0.0,0.1,0.125,0.05,"HOT, DRY, SANDY",net.minecraft.world.biome.BiomeGenDesert
+3,Extreme Hills,0.2,0.3,0.1,1.0,0.5,"MOUNTAIN, HILLS",net.minecraft.world.biome.BiomeGenHills
+4,Forest,0.7,0.8,0.1,0.1,0.2,FOREST,net.minecraft.world.biome.BiomeGenForest
+5,Taiga,0.25,0.8,0.1,0.2,0.2,"COLD, CONIFEROUS, FOREST",net.minecraft.world.biome.BiomeGenTaiga
+6,Swampland,0.8,0.9,0.1,-0.2,0.1,"WET, SWAMP",net.minecraft.world.biome.BiomeGenSwamp
+7,River,0.5,0.5,0.1,-0.5,0.0,RIVER,net.minecraft.world.biome.BiomeGenRiver
+8,Hell,2.0,0.0,0.1,0.1,0.2,"HOT, DRY, NETHER",net.minecraft.world.biome.BiomeGenHell
 9,Sky,0.5,0.5,0.1,0.1,0.2,"COLD, DRY, END",net.minecraft.world.biome.BiomeGenEnd
 10,FrozenOcean,0.0,0.5,0.1,-1.0,0.1,"COLD, OCEAN, SNOWY",net.minecraft.world.biome.BiomeGenOcean
 11,FrozenRiver,0.0,0.5,0.1,-0.5,0.0,"COLD, RIVER, SNOWY",net.minecraft.world.biome.BiomeGenRiver
-12,Ice Plains,0.0,0.5,0.1,0.125,0.05,"COLD, SNOWY, WASTELAND",biomesoplenty.common.biome.overridden.BiomeGenBOPIcePlains
+12,Ice Plains,0.0,0.5,0.1,0.125,0.05,"COLD, SNOWY, WASTELAND",net.minecraft.world.biome.BiomeGenSnow
 13,Ice Mountains,0.0,0.5,0.1,0.45,0.3,"COLD, MOUNTAIN, SNOWY",net.minecraft.world.biome.BiomeGenSnow
-14,MushroomIsland,0.9,1.0,0.1,0.2,0.3,MUSHROOM,biomesoplenty.common.biome.overridden.BiomeGenBOPMushroomIsland
-15,MushroomIslandShore,0.9,1.0,0.1,0.0,0.025,"MUSHROOM, BEACH",biomesoplenty.common.biome.overridden.BiomeGenBOPMushroomIsland
+14,MushroomIsland,0.9,1.0,0.1,0.2,0.3,MUSHROOM,net.minecraft.world.biome.BiomeGenMushroomIsland
+15,MushroomIslandShore,0.9,1.0,0.1,0.0,0.025,"MUSHROOM, BEACH",net.minecraft.world.biome.BiomeGenMushroomIsland
 16,Beach,0.8,0.4,0.1,0.0,0.025,BEACH,net.minecraft.world.biome.BiomeGenBeach
-17,DesertHills,2.0,0.0,0.1,0.45,0.3,"HOT, DRY, HILLS, SANDY",biomesoplenty.common.biome.overridden.BiomeGenBOPDesert
-18,ForestHills,0.7,0.8,0.1,0.45,0.3,"FOREST, HILLS",biomesoplenty.common.biome.overridden.BiomeGenBOPForest
-19,TaigaHills,0.25,0.8,0.1,0.45,0.3,"COLD, CONIFEROUS, FOREST, HILLS",biomesoplenty.common.biome.overridden.BiomeGenBOPTaiga
-20,Extreme Hills Edge,0.2,0.3,0.1,0.8,0.3,MOUNTAIN,biomesoplenty.common.biome.overridden.BiomeGenBOPExtremeHills
-21,Jungle,0.95,0.9,0.1,0.1,0.2,"HOT, DENSE, WET, JUNGLE",biomesoplenty.common.biome.overridden.BiomeGenBOPJungle
-22,JungleHills,0.95,0.9,0.1,0.45,0.3,"HOT, DENSE, WET, JUNGLE, HILLS",biomesoplenty.common.biome.overridden.BiomeGenBOPJungle
-23,JungleEdge,0.95,0.8,0.1,0.1,0.2,"HOT, WET, JUNGLE, FOREST",biomesoplenty.common.biome.overridden.BiomeGenBOPJungle
+17,DesertHills,2.0,0.0,0.1,0.45,0.3,"HOT, DRY, HILLS, SANDY",net.minecraft.world.biome.BiomeGenDesert
+18,ForestHills,0.7,0.8,0.1,0.45,0.3,"FOREST, HILLS",net.minecraft.world.biome.BiomeGenForest
+19,TaigaHills,0.25,0.8,0.1,0.45,0.3,"COLD, CONIFEROUS, FOREST, HILLS",net.minecraft.world.biome.BiomeGenTaiga
+20,Extreme Hills Edge,0.2,0.3,0.1,0.8,0.3,MOUNTAIN,net.minecraft.world.biome.BiomeGenHills
+21,Jungle,0.95,0.9,0.1,0.1,0.2,"HOT, DENSE, WET, JUNGLE",net.minecraft.world.biome.BiomeGenJungle
+22,JungleHills,0.95,0.9,0.1,0.45,0.3,"HOT, DENSE, WET, JUNGLE, HILLS",net.minecraft.world.biome.BiomeGenJungle
+23,JungleEdge,0.95,0.8,0.1,0.1,0.2,"HOT, WET, JUNGLE, FOREST",net.minecraft.world.biome.BiomeGenJungle
 24,Deep Ocean,0.5,0.5,0.1,-1.8,0.1,OCEAN,net.minecraft.world.biome.BiomeGenOcean
 25,Stone Beach,0.2,0.3,0.1,0.1,0.8,BEACH,net.minecraft.world.biome.BiomeGenStoneBeach
 26,Cold Beach,0.05,0.3,0.1,0.0,0.025,"COLD, SNOWY, BEACH",net.minecraft.world.biome.BiomeGenBeach
-27,Birch Forest,0.6,0.6,0.1,0.1,0.2,FOREST,biomesoplenty.common.biome.overridden.BiomeGenBOPBirchForest
-28,Birch Forest Hills,0.6,0.6,0.1,0.45,0.3,"FOREST, HILLS",biomesoplenty.common.biome.overridden.BiomeGenBOPBirchForest
-29,Roofed Forest,0.7,0.8,0.1,0.1,0.2,"DENSE, SPOOKY, FOREST",biomesoplenty.common.biome.overridden.BiomeGenBOPRoofedForest
-30,Cold Taiga,-0.5,0.4,0.1,0.2,0.2,"COLD, CONIFEROUS, FOREST, SNOWY",biomesoplenty.common.biome.overridden.BiomeGenBOPTaiga
-31,Cold Taiga Hills,-0.5,0.4,0.1,0.45,0.3,"COLD, CONIFEROUS, FOREST, HILLS, SNOWY",biomesoplenty.common.biome.overridden.BiomeGenBOPTaiga
+27,Birch Forest,0.6,0.6,0.1,0.1,0.2,FOREST,net.minecraft.world.biome.BiomeGenForest
+28,Birch Forest Hills,0.6,0.6,0.1,0.45,0.3,"FOREST, HILLS",net.minecraft.world.biome.BiomeGenForest
+29,Roofed Forest,0.7,0.8,0.1,0.1,0.2,"DENSE, SPOOKY, FOREST",net.minecraft.world.biome.BiomeGenForest
+30,Cold Taiga,-0.5,0.4,0.1,0.2,0.2,"COLD, CONIFEROUS, FOREST, SNOWY",net.minecraft.world.biome.BiomeGenTaiga
+31,Cold Taiga Hills,-0.5,0.4,0.1,0.45,0.3,"COLD, CONIFEROUS, FOREST, HILLS, SNOWY",net.minecraft.world.biome.BiomeGenTaiga
 32,Mega Taiga,0.3,0.8,0.1,0.2,0.2,"COLD, CONIFEROUS, FOREST",net.minecraft.world.biome.BiomeGenTaiga
 33,Mega Taiga Hills,0.3,0.8,0.1,0.45,0.3,"COLD, CONIFEROUS, FOREST, HILLS",net.minecraft.world.biome.BiomeGenTaiga
 34,Extreme Hills+,0.2,0.3,0.1,1.0,0.5,"SPARSE, FOREST, MOUNTAIN",net.minecraft.world.biome.BiomeGenHills
-35,Savanna,1.2,0.0,0.1,0.125,0.05,"HOT, SPARSE, SAVANNA, PLAINS",biomesoplenty.common.biome.overridden.BiomeGenBOPSavanna
-36,Savanna Plateau,1.0,0.0,0.1,1.5,0.025,"HOT, SPARSE, SAVANNA, PLAINS",biomesoplenty.common.biome.overridden.BiomeGenBOPSavanna
-37,Mesa,2.0,0.0,0.1,0.1,0.2,"MESA, SANDY",biomesoplenty.common.biome.overridden.BiomeGenBOPMesa
-38,Mesa Plateau F,2.0,0.0,0.1,1.5,0.025,"SPARSE, MESA, SANDY",biomesoplenty.common.biome.overridden.BiomeGenBOPMesa
-39,Mesa Plateau,2.0,0.0,0.1,1.5,0.025,"MESA, SANDY",biomesoplenty.common.biome.overridden.BiomeGenBOPMesa
+35,Savanna,1.2,0.0,0.1,0.125,0.05,"HOT, SPARSE, SAVANNA, PLAINS",net.minecraft.world.biome.BiomeGenSavanna
+36,Savanna Plateau,1.0,0.0,0.1,1.5,0.025,"HOT, SPARSE, SAVANNA, PLAINS",net.minecraft.world.biome.BiomeGenSavanna
+37,Mesa,2.0,0.0,0.1,0.1,0.2,"MESA, SANDY",net.minecraft.world.biome.BiomeGenMesa
+38,Mesa Plateau F,2.0,0.0,0.1,1.5,0.025,"SPARSE, MESA, SANDY",net.minecraft.world.biome.BiomeGenMesa
+39,Mesa Plateau,2.0,0.0,0.1,1.5,0.025,"MESA, SANDY",net.minecraft.world.biome.BiomeGenMesa
 40,Alps,0.0,0.5,0.1,8.0,0.025,"COLD, MOUNTAIN, SNOWY",biomesoplenty.common.biome.overworld.BiomeGenAlps
 41,Arctic,0.05,0.5,0.1,0.0,0.0,"COLD, DEAD, SNOWY, WASTELAND",biomesoplenty.common.biome.overworld.BiomeGenArctic
 42,Bamboo Forest,1.2,0.9,0.1,0.1,0.3,"DENSE, JUNGLE, LUSH, FOREST",biomesoplenty.common.biome.overworld.BiomeGenBambooForest
