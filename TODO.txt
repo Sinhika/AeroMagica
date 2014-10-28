@@ -10,6 +10,8 @@ TO DO
 - update Botanica
 - update Schematica
 - update Ruins
+- update HarvestCraft
+- add OpenBlocks
 - enable Simple Ores/Additions ore gen in Deep Darks.
 - integrate BOP stuff
 - JustAnotherSpawner for MoCreatures stuff.
