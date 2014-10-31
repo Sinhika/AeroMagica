@@ -19,7 +19,7 @@ DONE LIST
 - scintillawheat bread can be toasted - DONE
 - added OceanCraft foods to Meat, Chicken & Fish oredict groups - DONE
 - Ashenwheat grains added to AllGrains oredict group - DONE
-- Archimedes's ships blocks; used blacklist instead - DONE
+- Archimedes's ships blocks; used blacklist instead; add MoC, BoP, Natura, EBXL stuff - DONE
 - turned OFF HarvestCraft apple saplings in config - DONE
 - Tinker's Construct and Simple Ores copper, tin & bronze were already ore-dictified - DONE
 - turned OFF TiC copper & tin generation.
@@ -28,6 +28,7 @@ DONE LIST
 - disabled ExtraUtilities colored blocks - DONE
 - installed Carpenter's Blocks - DONE
 - ore-dicted BOP limstone with the rest - DONE
-
-
-
+- added 'enriched' Simple Ores generation to Deep Darks - DONE
+- MoCreatures cooked & raw meats ore-dictified with HarvestCraft & OceanCraft meats - DONE
+- MoCreatures stone/planks/logs ore-dictified - DONE
+- MoCreatures turtle meat and soup integrated with OceanCraft's and HarvestCraft - DONE

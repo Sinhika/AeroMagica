@@ -7,3 +7,7 @@
 
 # MARBLE
 <ore:blockMarble>.add(<UndergroundBiomes:metamorphicStone:2>);
+
+# GENERIC STONE
+<ore:stone>.add(<MoCreatures:MoCStone:0>);
+<ore:stone>.add(<MoCreatures:MoCStone:1>);

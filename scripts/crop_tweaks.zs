@@ -84,6 +84,7 @@ furnace.addRecipe(<harvestcraft:toastItem>, <ashenwheat:scintillaBread>);
 <ore:listAllseed>.add(<ashenwheat:ashSeeds>);
 <ore:listAllseed>.add(<ashenwheat:scintillaSeeds>);
 # note: the other 2 plants are not edible.
+
 # TODO: make ashenwheat breads useable in other bread recipes:
 
 # MELON is a fruit

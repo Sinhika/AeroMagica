@@ -7,15 +7,18 @@ TO DO
 - bacon & bacon jerky from TiC--find and oredict with cooked pork.
 - configure Ruins
 - - do not need "Simple Cthon" or "Golden Glitter"
+- integrate BOP stuff
+- JustAnotherSpawner for MoCreatures stuff.
+- integrate MoCreatures stuff (Dimension ID=-17)
+- ore generation for Deep Darks (Dimension ID=-100)
+
+--------------
+Install/Update
+--------------
 - update Botanica
 - update Schematica
 - update Ruins
 - update HarvestCraft
-- add OpenBlocks
-- enable Simple Ores/Additions ore gen in Deep Darks.
-- integrate BOP stuff
-- JustAnotherSpawner for MoCreatures stuff.
-- integrate MoCreatures stuff (Dimension ID=-17)
-
-
-
+- install OpenBlocks
+- install Thaumcraft Mob Aspects for 1.7.10
+- install all Bibliowoods if any are missing.
