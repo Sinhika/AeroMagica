@@ -16,8 +16,14 @@ $RECYCLE.BIN/
 
 asm/*
 examplesAndDocs/*
+!examplesAndDocs/JustAnotherSpawner/*
+crash-reports/*
 logs/*
 journeyMap/*
+mods/*
+!mods/ruins.txt
+!mods/resources/ruins/*
+screenshots/*
 resourcepacks/*
 saves/*
 unused_mods/*
@@ -26,10 +32,7 @@ unused_mods/*
 .project
 .classpath
 *.jar
-mods/*
-!mods/ruins.txt
-!mods/resources/ruins/*
-
+*.errored
 1213309934
 crash-reports/crash-2014-10-03_21.22.43-client.txt
 

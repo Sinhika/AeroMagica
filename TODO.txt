@@ -16,9 +16,4 @@ TO DO
 Install/Update
 --------------
 - update Botanica
-- update Schematica
-- update Ruins
-- update HarvestCraft
 - install OpenBlocks
-- install Thaumcraft Mob Aspects for 1.7.10
-- install all Bibliowoods if any are missing.

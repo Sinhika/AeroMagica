@@ -60,14 +60,36 @@ INFO: Adding Cooked Crab to ore dictionary entry listAllfishcooked
 INFO: Adding Cooked Perch to ore dictionary entry listAllfishcooked
 INFO: Adding Raw Crab to ore dictionary entry listAllfishraw
 INFO: Adding Raw Perch to ore dictionary entry listAllfishraw
+INFO: Adding Raw Crab to ore dictionary entry listAllfishraw
+INFO: Adding Cooked Crab to ore dictionary entry listAllfishcooked
 INFO: Adding Cooked Bird to ore dictionary entry listAllchickencooked
 INFO: Adding Raw Bird to ore dictionary entry listAllchickenraw
-INFO: Adding Raw Turtle Meat to ore dictionary entry listAllmeatraw
+INFO: Adding Raw Ostrich to ore dictionary entry listAllchickenraw
+INFO: Adding Cooked Ostrich to ore dictionary entry listAllchickencooked
+INFO: Adding Raw Turkey to ore dictionary entry listAllchickenraw
+INFO: Adding Cooked Turkey to ore dictionary entry listAllchickencooked
+INFO: Adding Cooked Crab to ore dictionary entry listAllcrabcooked
+INFO: Adding Cooked Crab to ore dictionary entry listAllcrabcooked
+INFO: Adding Raw Crab to ore dictionary entry listAllcrabraw
+INFO: Adding Raw Crab to ore dictionary entry listAllcrabraw
+INFO: Adding Raw Turtle Meat to ore dictionary entry listAllturtleraw
+INFO: Adding Raw Turtle to ore dictionary entry listAllturtleraw
+WARNING: No furnace recipes for <MoCreatures:turtlesoup>
+INFO: Adding furnace recipe for minetweaker.mc1710.oredict.MCOreDictEntry@58e
+INFO: Adding recipe for Turtle Soup
 INFO: Adding Cooked Turtle Meat to ore dictionary entry listAllmeatcooked
+INFO: Adding Raw Rat to ore dictionary entry listAllmeatraw
+INFO: Adding Cooked Rat to ore dictionary entry listAllmeatcooked
 INFO: Copying contents of ore dictionary entry listAllchickencooked to listAllmeatcooked
 INFO: Copying contents of ore dictionary entry listAllchickenraw to listAllmeatraw
+INFO: Copying contents of ore dictionary entry listAllturtleraw to listAllmeatraw
+INFO: Adding recipe for Green Backpack
+INFO: Adding Limestone to ore dictionary entry blockLimestone
 INFO: Adding Limestone to ore dictionary entry blockLimestone
 INFO: Adding Marble to ore dictionary entry blockMarble
+INFO: Adding WyvernLair Stone to ore dictionary entry stone
+INFO: Adding OgreLair Stone to ore dictionary entry stone
+ERROR: Error executing wood_tweakers.zs: Index: 32767, Size: 2
 COMMAND: <ArchimedesShips:balloon> -- Air Balloon
 COMMAND: <ArchimedesShips:buffer> -- Shore Buffer
 COMMAND: <ArchimedesShips:crate_wood> -- Wooden Crate
@@ -2002,11 +2024,13 @@ COMMAND: <harvestcraft:beanItem> -- Beans
 COMMAND: <harvestcraft:beanburritoItem> -- Bean Burrito
 COMMAND: <harvestcraft:beansandriceItem> -- Beans and Rice
 COMMAND: <harvestcraft:beanseedItem> -- Bean Seed
+COMMAND: <harvestcraft:beansontoastItem> -- Beans on Toast
 COMMAND: <harvestcraft:beefjerkyItem> -- Beef Jerky
 COMMAND: <harvestcraft:beefwellingtonItem> -- Beef Wellington
 COMMAND: <harvestcraft:beehive> -- Beehive
 COMMAND: <harvestcraft:beeswaxItem> -- Beeswax
 COMMAND: <harvestcraft:beetItem> -- Beet
+COMMAND: <harvestcraft:beetburgerItem> -- Beet Burger
 COMMAND: <harvestcraft:beetsaladItem> -- Beet Salad
 COMMAND: <harvestcraft:beetseedItem> -- Beet Seed
 COMMAND: <harvestcraft:beetsoupItem> -- Beet Soup
@@ -2055,6 +2079,7 @@ COMMAND: <harvestcraft:cactusfruitseedItem> -- Cactus Fruit Seed
 COMMAND: <harvestcraft:cactussoupItem> -- Cactus Soup
 COMMAND: <harvestcraft:calamaricookedItem> -- Cooked Calamari
 COMMAND: <harvestcraft:calamarirawItem> -- Raw Calamari
+COMMAND: <harvestcraft:californiarollItem> -- California Roll
 COMMAND: <harvestcraft:candiedgingerItem> -- Candied Ginger
 COMMAND: <harvestcraft:candiedlemonItem> -- Candied Lemon
 COMMAND: <harvestcraft:candiedsweetpotatoesItem> -- Candied Sweet Potatoes
@@ -2083,6 +2108,7 @@ COMMAND: <harvestcraft:cheeseburgerItem> -- Cheeseburger
 COMMAND: <harvestcraft:cheesecakeItem> -- Cheesecake
 COMMAND: <harvestcraft:cherryItem> -- Cherry
 COMMAND: <harvestcraft:cherrycheesecakeItem> -- Cherry Cheesecake
+COMMAND: <harvestcraft:cherrycoconutchocolatebarItem> -- Cherry Coconut Chocolate Bar
 COMMAND: <harvestcraft:cherryjellyItem> -- Cherry Jelly
 COMMAND: <harvestcraft:cherryjellysandwichItem> -- Cherry Jelly Sandwich
 COMMAND: <harvestcraft:cherryjuiceItem> -- Cherry Juice
@@ -2093,10 +2119,12 @@ COMMAND: <harvestcraft:cherryyogurtItem> -- Cherry Yogurt
 COMMAND: <harvestcraft:chestnutItem> -- Chestnut
 COMMAND: <harvestcraft:chickencelerycasseroleItem> -- Chicken Celery Casserole
 COMMAND: <harvestcraft:chickencurryItem> -- Chicken Curry
+COMMAND: <harvestcraft:chickengumboItem> -- Chicken Gumbo
 COMMAND: <harvestcraft:chickennoodlesoupItem> -- Chicken Noodle Soup
 COMMAND: <harvestcraft:chickenparmasanItem> -- Chicken Parmasan
 COMMAND: <harvestcraft:chickenpotpieItem> -- Chicken Pot Pie
 COMMAND: <harvestcraft:chickensandwichItem> -- Chicken Sandwich
+COMMAND: <harvestcraft:chikorollItem> -- Chiko Roll
 COMMAND: <harvestcraft:chiliItem> -- Chili
 COMMAND: <harvestcraft:chilichocolateItem> -- Chili Chocolate
 COMMAND: <harvestcraft:chilipepperItem> -- Chili Pepper
@@ -2152,6 +2180,7 @@ COMMAND: <harvestcraft:curryItem> -- Curry Rice
 COMMAND: <harvestcraft:custardItem> -- Custard
 COMMAND: <harvestcraft:cuttingboard> -- Cutting Board
 COMMAND: <harvestcraft:cuttingboardItem> -- Cutting Board
+COMMAND: <harvestcraft:damperItem> -- Damper
 COMMAND: <harvestcraft:dateItem> -- Date
 COMMAND: <harvestcraft:datenutbreadItem> -- Date Nut Bread
 COMMAND: <harvestcraft:delightedmealItem> -- Delighted Meal
@@ -2170,6 +2199,7 @@ COMMAND: <harvestcraft:eggsaladItem> -- Egg Salad
 COMMAND: <harvestcraft:epicbaconItem> -- Epic Bacon
 COMMAND: <harvestcraft:espressoItem> -- Espresso
 COMMAND: <harvestcraft:extremechiliItem> -- Extreme Chili
+COMMAND: <harvestcraft:fairybreadItem> -- Fairy Bread
 COMMAND: <harvestcraft:figItem> -- Fig
 COMMAND: <harvestcraft:figbarItem> -- Fig Bar
 COMMAND: <harvestcraft:figjellyItem> -- Fig Jelly
@@ -2197,12 +2227,15 @@ COMMAND: <harvestcraft:frosteddonutItem> -- Frosted Donut
 COMMAND: <harvestcraft:fruitcrumbleItem> -- Fruit Crumble
 COMMAND: <harvestcraft:fruitpunchItem> -- Fruit Punch
 COMMAND: <harvestcraft:fruitsaladItem> -- Fruit Salad
+COMMAND: <harvestcraft:futomakiItem> -- Futo Maki
 COMMAND: <harvestcraft:gardensoupItem> -- Garden Soup
 COMMAND: <harvestcraft:garlicItem> -- Garlic
 COMMAND: <harvestcraft:garlicbreadItem> -- Garlic Bread
 COMMAND: <harvestcraft:garlicchickenItem> -- Garlic Chicken
 COMMAND: <harvestcraft:garlicmashedpotatoesItem> -- Garlic Mashed Potatoes
 COMMAND: <harvestcraft:garlicseedItem> -- Garlic Seed
+COMMAND: <harvestcraft:generaltsochickenItem> -- General Tso's Chicken
+COMMAND: <harvestcraft:gherkinItem> -- Gherkin
 COMMAND: <harvestcraft:gingerItem> -- Ginger
 COMMAND: <harvestcraft:gingerbreadItem> -- Ginger Bread
 COMMAND: <harvestcraft:gingerchickenItem> -- Ginger Chicken
@@ -2251,6 +2284,7 @@ COMMAND: <harvestcraft:herbbutterparsnipsItem> -- Herb Butter Parsnips
 COMMAND: <harvestcraft:herbgarden> -- Herb Garden
 COMMAND: <harvestcraft:honeyItem> -- Honey
 COMMAND: <harvestcraft:honeycombItem> -- Honeycomb
+COMMAND: <harvestcraft:honeycombchocolatebarItem> -- Honeycomb Chocolate Bar
 COMMAND: <harvestcraft:honeylemonlambItem> -- Honey Lemon Lamb
 COMMAND: <harvestcraft:hotchocolateItem> -- Hot Chocolate
 COMMAND: <harvestcraft:hotdogItem> -- Hotdog
@@ -2270,6 +2304,7 @@ COMMAND: <harvestcraft:kiwiseedItem> -- Kiwi Seed
 COMMAND: <harvestcraft:kiwismoothieItem> -- Kiwi Smoothie
 COMMAND: <harvestcraft:kiwiyogurtItem> -- Kiwi Yogurt
 COMMAND: <harvestcraft:lambbarleysoupItem> -- Lamb Barley Soup
+COMMAND: <harvestcraft:lamingtonItem> -- Lamington
 COMMAND: <harvestcraft:lavendershortbreadItem> -- Lavender Shortbread
 COMMAND: <harvestcraft:leafychickensandwichItem> -- Leafy Chicken Sandwich
 COMMAND: <harvestcraft:leafyfishsandwichItem> -- Leafy Fish Sandwich
@@ -2314,6 +2349,8 @@ COMMAND: <harvestcraft:marshmellowsItem> -- Marshmellows
 COMMAND: <harvestcraft:mashedpotatoesItem> -- Mashed Potatoes
 COMMAND: <harvestcraft:mashedsweetpotatoesItem> -- Mashed Sweet Potatoes
 COMMAND: <harvestcraft:mayoItem> -- Mayo
+COMMAND: <harvestcraft:mcpamItem> -- McPam
+COMMAND: <harvestcraft:meatpieItem> -- Meat Pie
 COMMAND: <harvestcraft:meatystewItem> -- Meaty Stew
 COMMAND: <harvestcraft:melonjuiceItem> -- Melon Juice
 COMMAND: <harvestcraft:melonsmoothieItem> -- Melon Smoothie
@@ -2504,6 +2541,7 @@ COMMAND: <harvestcraft:papayayogurtItem> -- Papaya Yogurt
 COMMAND: <harvestcraft:parsnipItem> -- Parsnip
 COMMAND: <harvestcraft:parsnipseedItem> -- Parsnip Seed
 COMMAND: <harvestcraft:pastaItem> -- Pasta
+COMMAND: <harvestcraft:pavlovaItem> -- Pavlova
 COMMAND: <harvestcraft:pbandjItem> -- PB&J
 COMMAND: <harvestcraft:peachItem> -- Peach
 COMMAND: <harvestcraft:peachcobblerItem> -- Peach Cobbler
@@ -2675,6 +2713,7 @@ COMMAND: <harvestcraft:teaItem> -- Cup of Tea
 COMMAND: <harvestcraft:tealeafItem> -- Tea Leaf
 COMMAND: <harvestcraft:teaseedItem> -- Tea Seed
 COMMAND: <harvestcraft:textilegarden> -- Textile Garden
+COMMAND: <harvestcraft:timtamItem> -- Tim Tam
 COMMAND: <harvestcraft:toastItem> -- Toast
 COMMAND: <harvestcraft:toastedcoconutItem> -- Toasted Coconut
 COMMAND: <harvestcraft:toastsandwichItem> -- Toast Sandwich
@@ -2691,6 +2730,7 @@ COMMAND: <harvestcraft:vanillaItem> -- Vanilla
 COMMAND: <harvestcraft:vanillabeanItem> -- Vanilla Bean
 COMMAND: <harvestcraft:vanillaicecreamItem> -- Vanilla Ice Cream
 COMMAND: <harvestcraft:vanillayogurtItem> -- Vanilla Yogurt
+COMMAND: <harvestcraft:vegemiteItem> -- Vegemite
 COMMAND: <harvestcraft:vegetablesoupItem> -- Vegetable Soup
 COMMAND: <harvestcraft:vegetarianlettucewrapItem> -- Vegetarian Lettuce Wrap
 COMMAND: <harvestcraft:veggiestirfryItem> -- Veggie Stirfry
@@ -3542,15 +3582,15 @@ COMMAND:     <Growthcraft|Bamboo:grc.bambooLeaves>
 COMMAND: Ore entries for <ore:oreGold> :
 COMMAND:     <minecraft:gold_ore>
 COMMAND:     <TConstruct:GravelOre:1>
-COMMAND:     <UndergroundBiomes:sedimentary_oreGold>
 COMMAND:     <UndergroundBiomes:metamorphic_oreGold>
+COMMAND:     <UndergroundBiomes:sedimentary_oreGold>
 COMMAND:     <UndergroundBiomes:igneous_oreGold>
 COMMAND: Ore entries for <ore:oreIron> :
 COMMAND:     <minecraft:iron_ore>
 COMMAND:     <TConstruct:GravelOre>
+COMMAND:     <UndergroundBiomes:sedimentary_oreIron>
 COMMAND:     <UndergroundBiomes:igneous_oreIron>
 COMMAND:     <UndergroundBiomes:metamorphic_oreIron>
-COMMAND:     <UndergroundBiomes:sedimentary_oreIron>
 COMMAND: Ore entries for <ore:oreLapis> :
 COMMAND:     <minecraft:lapis_ore>
 COMMAND:     <UndergroundBiomes:sedimentary_oreLapis>
@@ -3558,26 +3598,26 @@ COMMAND:     <UndergroundBiomes:igneous_oreLapis>
 COMMAND:     <UndergroundBiomes:metamorphic_oreLapis>
 COMMAND: Ore entries for <ore:oreDiamond> :
 COMMAND:     <minecraft:diamond_ore>
-COMMAND:     <UndergroundBiomes:sedimentary_oreDiamond>
-COMMAND:     <UndergroundBiomes:igneous_oreDiamond>
 COMMAND:     <UndergroundBiomes:metamorphic_oreDiamond>
+COMMAND:     <UndergroundBiomes:igneous_oreDiamond>
+COMMAND:     <UndergroundBiomes:sedimentary_oreDiamond>
 COMMAND: Ore entries for <ore:oreRedstone> :
 COMMAND:     <minecraft:redstone_ore>
-COMMAND:     <UndergroundBiomes:sedimentary_oreRedstone>
 COMMAND:     <UndergroundBiomes:metamorphic_oreRedstone>
+COMMAND:     <UndergroundBiomes:sedimentary_oreRedstone>
 COMMAND:     <UndergroundBiomes:igneous_oreRedstone>
 COMMAND: Ore entries for <ore:oreEmerald> :
 COMMAND:     <minecraft:emerald_ore>
-COMMAND:     <UndergroundBiomes:metamorphic_oreEmerald>
-COMMAND:     <UndergroundBiomes:sedimentary_oreEmerald>
 COMMAND:     <UndergroundBiomes:igneous_oreEmerald>
+COMMAND:     <UndergroundBiomes:sedimentary_oreEmerald>
+COMMAND:     <UndergroundBiomes:metamorphic_oreEmerald>
 COMMAND: Ore entries for <ore:oreQuartz> :
 COMMAND:     <minecraft:quartz_ore>
 COMMAND: Ore entries for <ore:oreCoal> :
 COMMAND:     <minecraft:coal_ore>
-COMMAND:     <UndergroundBiomes:sedimentary_oreCoal>
-COMMAND:     <UndergroundBiomes:metamorphic_oreCoal>
 COMMAND:     <UndergroundBiomes:igneous_oreCoal>
+COMMAND:     <UndergroundBiomes:metamorphic_oreCoal>
+COMMAND:     <UndergroundBiomes:sedimentary_oreCoal>
 COMMAND: Ore entries for <ore:blockGold> :
 COMMAND:     <minecraft:gold_block>
 COMMAND: Ore entries for <ore:blockIron> :
@@ -3652,6 +3692,8 @@ COMMAND:     <minecraft:stone>
 COMMAND:     <UndergroundBiomes:igneousStone:*>
 COMMAND:     <UndergroundBiomes:metamorphicStone:*>
 COMMAND:     <minecraft:stone:*>
+COMMAND:     <MoCreatures:MoCStone>
+COMMAND:     <MoCreatures:MoCStone:1>
 COMMAND: Ore entries for <ore:cobblestone> :
 COMMAND:     <minecraft:cobblestone>
 COMMAND:     <UndergroundBiomes:igneousCobblestone:*>
@@ -4304,6 +4346,7 @@ COMMAND:     <UndergroundBiomes:metamorphicStone:2>
 COMMAND: Ore entries for <ore:blockLimestone> :
 COMMAND:     <chisel:chisel.limestone>
 COMMAND:     <UndergroundBiomes:sedimentaryStone>
+COMMAND:     <BiomesOPlenty:rocks>
 COMMAND: Ore entries for <ore:blockConcrete> :
 COMMAND:     <chisel:chisel.concrete>
 COMMAND: Ore entries for <ore:blockDirt> :
@@ -4819,6 +4862,8 @@ COMMAND: Ore entries for <ore:listAllchickenraw> :
 COMMAND:     <minecraft:chicken>
 COMMAND:     <harvestcraft:firmtofuItem>
 COMMAND:     <Oceancraft:RawBird>
+COMMAND:     <MoCreatures:ostrichraw>
+COMMAND:     <MoCreatures:turkeyraw>
 COMMAND: Ore entries for <ore:foodPasta> :
 COMMAND:     <harvestcraft:pastaItem>
 COMMAND: Ore entries for <ore:listAllporkraw> :
@@ -4838,6 +4883,7 @@ COMMAND:     <harvestcraft:firmtofuItem>
 COMMAND:     <Oceancraft:BigFishRaw>
 COMMAND:     <Oceancraft:RawCrab>
 COMMAND:     <Oceancraft:RawPerch>
+COMMAND:     <MoCreatures:crabraw>
 COMMAND: Ore entries for <ore:foodFishsticks> :
 COMMAND:     <harvestcraft:fishsticksItem>
 COMMAND: Ore entries for <ore:foodFries> :
@@ -4855,8 +4901,12 @@ COMMAND:     <minecraft:chicken>
 COMMAND:     <minecraft:porkchop>
 COMMAND:     <harvestcraft:muttonrawItem>
 COMMAND:     <harvestcraft:firmtofuItem>
-COMMAND:     <Oceancraft:RawTurtleMeat>
+COMMAND:     <MoCreatures:ratraw>
 COMMAND:     <Oceancraft:RawBird>
+COMMAND:     <MoCreatures:ostrichraw>
+COMMAND:     <MoCreatures:turkeyraw>
+COMMAND:     <Oceancraft:RawTurtleMeat>
+COMMAND:     <MoCreatures:turtleraw>
 COMMAND: Ore entries for <ore:foodSpagetti> :
 COMMAND:     <harvestcraft:spagettiItem>
 COMMAND: Ore entries for <ore:listAllbeefcooked> :
@@ -4866,6 +4916,8 @@ COMMAND: Ore entries for <ore:listAllchickencooked> :
 COMMAND:     <minecraft:cooked_chicken>
 COMMAND:     <harvestcraft:firmtofuItem>
 COMMAND:     <Oceancraft:CookedBird>
+COMMAND:     <MoCreatures:ostrichcooked>
+COMMAND:     <MoCreatures:turkeycooked>
 COMMAND: Ore entries for <ore:cropSunflower> :
 COMMAND:     <harvestcraft:sunflowerseedsItem>
 COMMAND: Ore entries for <ore:cropWalnut> :
@@ -4877,6 +4929,7 @@ COMMAND:     <harvestcraft:firmtofuItem>
 COMMAND:     <Oceancraft:BigFishCooked>
 COMMAND:     <Oceancraft:CookedCrab>
 COMMAND:     <Oceancraft:CookedPerch>
+COMMAND:     <MoCreatures:crabcooked>
 COMMAND: Ore entries for <ore:foodChickensandwich> :
 COMMAND:     <harvestcraft:chickensandwichItem>
 COMMAND: Ore entries for <ore:foodFishsandwich> :
@@ -5125,6 +5178,12 @@ COMMAND: Ore entries for <ore:foodWaffles> :
 COMMAND:     <harvestcraft:wafflesItem>
 COMMAND: Ore entries for <ore:foodMaplesausage> :
 COMMAND:     <harvestcraft:maplesausageItem>
+COMMAND: Ore entries for <ore:oreSalt> :
+COMMAND:     <harvestcraft:saltItem>
+COMMAND: Ore entries for <ore:ingotSteel> :
+COMMAND:     <steelyglint:lowSteelIngot>
+COMMAND:     <steelyglint:highSteelIngot>
+COMMAND:     <TConstruct:materials:16>
 COMMAND: Ore entries for <ore:materialCloth> :
 COMMAND:     <harvestcraft:wovencottonItem>
 COMMAND: Ore entries for <ore:materialPressedwax> :
@@ -5147,7 +5206,10 @@ COMMAND:     <minecraft:cooked_porkchop>
 COMMAND:     <harvestcraft:muttoncookedItem>
 COMMAND:     <harvestcraft:firmtofuItem>
 COMMAND:     <Oceancraft:CookedTurtleMeat>
+COMMAND:     <MoCreatures:ratcooked>
 COMMAND:     <Oceancraft:CookedBird>
+COMMAND:     <MoCreatures:ostrichcooked>
+COMMAND:     <MoCreatures:turkeycooked>
 COMMAND: Ore entries for <ore:listAllmuttoncooked> :
 COMMAND:     <harvestcraft:muttoncookedItem>
 COMMAND:     <harvestcraft:firmtofuItem>
@@ -5989,6 +6051,42 @@ COMMAND: Ore entries for <ore:foodEpicbacon> :
 COMMAND:     <harvestcraft:epicbaconItem>
 COMMAND: Ore entries for <ore:foodManjuu> :
 COMMAND:     <harvestcraft:manjuuItem>
+COMMAND: Ore entries for <ore:foodChickengumbo> :
+COMMAND:     <harvestcraft:chickengumboItem>
+COMMAND: Ore entries for <ore:foodGeneraltsochicken> :
+COMMAND:     <harvestcraft:generaltsochickenItem>
+COMMAND: Ore entries for <ore:foodCaliforniaroll> :
+COMMAND:     <harvestcraft:californiarollItem>
+COMMAND: Ore entries for <ore:foodFutomaki> :
+COMMAND:     <harvestcraft:futomakiItem>
+COMMAND: Ore entries for <ore:foodBeansontoast> :
+COMMAND:     <harvestcraft:beansontoastItem>
+COMMAND: Ore entries for <ore:foodVegemite> :
+COMMAND:     <harvestcraft:vegemiteItem>
+COMMAND: Ore entries for <ore:foodHoneycombchocolatebar> :
+COMMAND:     <harvestcraft:honeycombchocolatebarItem>
+COMMAND: Ore entries for <ore:foodCherrycoconutchocolatebar> :
+COMMAND:     <harvestcraft:cherrycoconutchocolatebarItem>
+COMMAND: Ore entries for <ore:foodFairybread> :
+COMMAND:     <harvestcraft:fairybreadItem>
+COMMAND: Ore entries for <ore:foodLamington> :
+COMMAND:     <harvestcraft:lamingtonItem>
+COMMAND: Ore entries for <ore:foodTimtam> :
+COMMAND:     <harvestcraft:timtamItem>
+COMMAND: Ore entries for <ore:foodMeatpie> :
+COMMAND:     <harvestcraft:meatpieItem>
+COMMAND: Ore entries for <ore:foodChikoroll> :
+COMMAND:     <harvestcraft:chikorollItem>
+COMMAND: Ore entries for <ore:foodDamper> :
+COMMAND:     <harvestcraft:damperItem>
+COMMAND: Ore entries for <ore:foodBeetburger> :
+COMMAND:     <harvestcraft:beetburgerItem>
+COMMAND: Ore entries for <ore:foodPavlova> :
+COMMAND:     <harvestcraft:pavlovaItem>
+COMMAND: Ore entries for <ore:foodGherkin> :
+COMMAND:     <harvestcraft:gherkinItem>
+COMMAND: Ore entries for <ore:foodMcpam> :
+COMMAND:     <harvestcraft:mcpamItem>
 COMMAND: Ore entries for <ore:seedCotton> :
 COMMAND:     <harvestcraft:cottonseedItem>
 COMMAND:     <Natura:barley.seed:1>
@@ -5998,8 +6096,6 @@ COMMAND: Ore entries for <ore:seedCandleberry> :
 COMMAND:     <harvestcraft:candleberryseedItem>
 COMMAND: Ore entries for <ore:materialHardenedleather> :
 COMMAND:     <harvestcraft:hardenedleatherItem>
-COMMAND: Ore entries for <ore:oreSalt> :
-COMMAND:     <harvestcraft:saltItem>
 COMMAND: Ore entries for <ore:ingotCobalt> :
 COMMAND:     <simplecobalt:cobaltIngot>
 COMMAND:     <TConstruct:materials:3>
@@ -6057,10 +6153,6 @@ COMMAND: Ore entries for <ore:ingotLowSteel> :
 COMMAND:     <steelyglint:lowSteelIngot>
 COMMAND: Ore entries for <ore:ingotHighSteel> :
 COMMAND:     <steelyglint:highSteelIngot>
-COMMAND: Ore entries for <ore:ingotSteel> :
-COMMAND:     <steelyglint:lowSteelIngot>
-COMMAND:     <steelyglint:highSteelIngot>
-COMMAND:     <TConstruct:materials:16>
 COMMAND: Ore entries for <ore:ingotSterlingSteel> :
 COMMAND:     <sterlingandblack:sterlingSteelIngot>
 COMMAND: Ore entries for <ore:ingotBlackSilver> :
@@ -6395,6 +6487,15 @@ COMMAND: Ore entries for <ore:clusterMithril> :
 COMMAND:     <aobd:clusterMithril>
 COMMAND: Ore entries for <ore:clusterArdite> :
 COMMAND:     <aobd:clusterArdite>
+COMMAND: Ore entries for <ore:listAllcrabcooked> :
+COMMAND:     <Oceancraft:CookedCrab>
+COMMAND:     <MoCreatures:crabcooked>
+COMMAND: Ore entries for <ore:listAllcrabraw> :
+COMMAND:     <Oceancraft:RawCrab>
+COMMAND:     <MoCreatures:crabraw>
+COMMAND: Ore entries for <ore:listAllturtleraw> :
+COMMAND:     <Oceancraft:RawTurtleMeat>
+COMMAND:     <MoCreatures:turtleraw>
 COMMAND: Blocks:
 COMMAND: <block:ArchimedesShips:balloon> -- Air Balloon
 COMMAND: <block:ArchimedesShips:buffer> -- Shore Buffer
@@ -7693,5 +7794,176 @@ COMMAND: Seed: <minecraft:wheat_seeds> * 1 - 10
 COMMAND: Seed: <Natura:barley.seed> * 1 - 3
 COMMAND: Seed: <Natura:barley.seed:1> * 1 - 3
 COMMAND: Seed: <Growthcraft|Rice:grc.rice> * 1 - 3
-COMMAND: Seed: <harvestcraft:oatsseedItem> * 1 - 1
 COMMAND: Seed: <harvestcraft:ryeseedItem> * 1 - 1
+COMMAND: Biomes:
+COMMAND:     Ocean
+COMMAND:     Plains
+COMMAND:     Desert
+COMMAND:     Extreme Hills
+COMMAND:     Forest
+COMMAND:     Taiga
+COMMAND:     Swampland
+COMMAND:     River
+COMMAND:     Hell
+COMMAND:     Sky
+COMMAND:     FrozenOcean
+COMMAND:     FrozenRiver
+COMMAND:     Ice Plains
+COMMAND:     Ice Mountains
+COMMAND:     MushroomIsland
+COMMAND:     MushroomIslandShore
+COMMAND:     Beach
+COMMAND:     DesertHills
+COMMAND:     ForestHills
+COMMAND:     TaigaHills
+COMMAND:     Extreme Hills Edge
+COMMAND:     Jungle
+COMMAND:     JungleHills
+COMMAND:     JungleEdge
+COMMAND:     Deep Ocean
+COMMAND:     Stone Beach
+COMMAND:     Cold Beach
+COMMAND:     Birch Forest
+COMMAND:     Birch Forest Hills
+COMMAND:     Roofed Forest
+COMMAND:     Cold Taiga
+COMMAND:     Cold Taiga Hills
+COMMAND:     Mega Taiga
+COMMAND:     Mega Taiga Hills
+COMMAND:     Extreme Hills+
+COMMAND:     Savanna
+COMMAND:     Savanna Plateau
+COMMAND:     Mesa
+COMMAND:     Mesa Plateau F
+COMMAND:     Mesa Plateau
+COMMAND:     Alps
+COMMAND:     Arctic
+COMMAND:     Bamboo Forest
+COMMAND:     Bayou
+COMMAND:     Bog
+COMMAND:     Boreal Forest
+COMMAND:     Brushland
+COMMAND:     Canyon
+COMMAND:     Chaparral
+COMMAND:     Cherry Blossom Grove
+COMMAND:     Coniferous Forest
+COMMAND:     Snowy Coniferous Forest
+COMMAND:     Crag
+COMMAND:     Dead Forest
+COMMAND:     Dead Swamp
+COMMAND:     Deciduous Forest
+COMMAND:     Fen
+COMMAND:     Flower Field
+COMMAND:     Frost Forest
+COMMAND:     Fungi Forest
+COMMAND:     Garden
+COMMAND:     Grassland
+COMMAND:     Grove
+COMMAND:     Heathland
+COMMAND:     Highland
+COMMAND:     Jade Cliffs
+COMMAND:     Lavender Fields
+COMMAND:     Lush Desert
+COMMAND:     Lush Swamp
+COMMAND:     Maple Woods
+COMMAND:     Marsh
+COMMAND:     Meadow
+COMMAND:     Moor
+COMMAND:     Mountain
+COMMAND:     Mystic Grove
+COMMAND:     Ominous Woods
+COMMAND:     Origin Valley
+COMMAND:     Outback
+COMMAND:     Prairie
+COMMAND:     Rainforest
+COMMAND:     Redwood Forest
+COMMAND:     Sacred Springs
+COMMAND:     Seasonal Forest
+COMMAND:     Shield
+COMMAND:     Shrubland
+COMMAND:     Sludgepit
+COMMAND:     Steppe
+COMMAND:     Temperate Rainforest
+COMMAND:     Thicket
+COMMAND:     Tropical Rainforest
+COMMAND:     Tundra
+COMMAND:     Wasteland
+COMMAND:     Wetland
+COMMAND:     Woodland
+COMMAND:     Coral Reef
+COMMAND:     Kelp Forest
+COMMAND:     Tropics
+COMMAND:     Volcano
+COMMAND:     Mangrove
+COMMAND:     Alps Forest
+COMMAND:     Canyon Ravine
+COMMAND:     Glacier
+COMMAND:     Meadow Forest
+COMMAND:     Oasis
+COMMAND:     Orchard
+COMMAND:     Quagmire
+COMMAND:     Scrubland
+COMMAND:     Silkglades
+COMMAND:     Spruce Woods
+COMMAND:     Corrupted Sands
+COMMAND:     Phantasmagoric Inferno
+COMMAND:     Boneyard
+COMMAND:     Visceral Heap
+COMMAND:     Undergarden
+COMMAND:     Polar Chasm
+COMMAND:     Spectral Garden
+COMMAND:     Lush River
+COMMAND:     Dry River
+COMMAND:     Alpine
+COMMAND:     Autumn Woods
+COMMAND:     Birch Forest
+COMMAND:     Extreme Jungle
+COMMAND:     Forested Hills
+COMMAND:     Forested Island
+COMMAND:     Glacier
+COMMAND:     Green Hills
+COMMAND:     Green Swamplands
+COMMAND:     Ice Wasteland
+COMMAND:     Meadow
+COMMAND:     Sunflower Plains
+COMMAND:     Desert M
+COMMAND:     Extreme Hills M
+COMMAND:     Flower Forest
+COMMAND:     Taiga M
+COMMAND:     Swampland M
+COMMAND:     Mini Jungle
+COMMAND:     Mountainous Desert
+COMMAND:     Red Rock Mountains
+COMMAND:     Mountain Taiga
+COMMAND:     Pine Forest
+COMMAND:     Ice Plains Spikes
+COMMAND:     Rainforest
+COMMAND:     Redwood Forest
+COMMAND:     Lush Redwoods
+COMMAND:     Savanna
+COMMAND:     Shrubland
+COMMAND:     Snow Forest
+COMMAND:     Snowy Rainforest
+COMMAND:     Temperate Rainforest
+COMMAND:     Jungle M
+COMMAND:     Tundra
+COMMAND:     JungleEdge M
+COMMAND:     Wasteland
+COMMAND:     Woodlands
+COMMAND:     Birch Forest M
+COMMAND:     Birch Forest Hills M
+COMMAND:     Roofed Forest M
+COMMAND:     Cold Taiga M
+COMMAND:     Mega Spruce Taiga
+COMMAND:     Mega Spruce Taiga
+COMMAND:     Extreme Hills+ M
+COMMAND:     Savanna M
+COMMAND:     Savanna Plateau M
+COMMAND:     Mesa (Bryce)
+COMMAND:     Mesa Plateau F M
+COMMAND:     Mesa Plateau M
+COMMAND:     BambooForest
+COMMAND:     Tainted Land
+COMMAND:     Magical Forest
+COMMAND:     Eerie
+COMMAND:     WyvernBiome
