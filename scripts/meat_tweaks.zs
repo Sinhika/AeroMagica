@@ -30,12 +30,13 @@
 <ore:listAllturtleraw>.add(<MoCreatures:turtleraw>);
 
 # remove MoC turtle soup recipe
-furnace.remove(<MoCreatures:turtlesoup>, <MoCreatures:turtleraw>);
+recipes.remove(<MoCreatures:turtlesoup>);
 
 # replace with OC cooked turtle
 furnace.addRecipe(<Oceancraft:CookedTurtleMeat>, <ore:listAllturtleraw> );
 
 # replace with HC-style turtle soup recipes - pot, stock, meat
+# TODO - may require a bowl as input if eating soup yields a bowl.
 recipes.addShapeless(<MoCreatures:turtlesoup>, 
 					[<harvestcraft:potItem>.reuse(), <ore:listAllturtleraw>, <harvestcraft:stockItem>]);
 

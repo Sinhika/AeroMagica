@@ -28,7 +28,12 @@ DONE LIST
 - disabled ExtraUtilities colored blocks - DONE
 - installed Carpenter's Blocks - DONE
 - ore-dicted BOP limstone with the rest - DONE
-- added 'enriched' Simple Ores generation to Deep Darks - DONE
 - MoCreatures cooked & raw meats ore-dictified with HarvestCraft & OceanCraft meats - DONE
+- updated Pam's HarvestCraft - DONE
 - MoCreatures stone/planks/logs ore-dictified - DONE
 - MoCreatures turtle meat and soup integrated with OceanCraft's and HarvestCraft - DONE
+- change vanilla fence/gate/door recipes to match 1.8 - DONE
+- added 'enriched' Simple Ores generation to Deep Darks - BROKE
+- add 1.8-style fence/gate/door recipes for Natura woods - IN PROGRESS
+- configured Thaumcraft Mob Aspects for: MoCreatures, OceanCraft, EBXL, Obsidian Boat, GrowthCraft, Sinhika's Bark,
+	
