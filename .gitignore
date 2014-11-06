@@ -17,6 +17,7 @@ $RECYCLE.BIN/
 asm/*
 examplesAndDocs/*
 !examplesAndDocs/JustAnotherSpawner/*
+!examplesAndDocs/Corvias-JAS-Configs-v.3/JustAnotherSpawner/*
 crash-reports/*
 logs/*
 journeyMap/*
@@ -34,6 +35,3 @@ unused_mods/*
 *.jar
 *.errored
 1213309934
-crash-reports/crash-2014-10-03_21.22.43-client.txt
-
-crash-reports/crash-2014-10-27_19.57.20-server.txt
