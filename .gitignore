@@ -15,9 +15,9 @@ $RECYCLE.BIN/
 *.msp
 
 asm/*
-examplesAndDocs/*
 !examplesAndDocs/JustAnotherSpawner/*
 !examplesAndDocs/Corvias-JAS-Configs-v.3/JustAnotherSpawner/*
+examplesAndDocs/*
 crash-reports/*
 logs/*
 journeyMap/*
