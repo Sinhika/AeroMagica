@@ -16,5 +16,3 @@ TO DO
 --------------
 Install/Update
 --------------
-- install OpenBlocks
-- install ModTweaker

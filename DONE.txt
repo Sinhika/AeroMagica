@@ -34,6 +34,10 @@ DONE LIST
 - MoCreatures turtle meat and soup integrated with OceanCraft's and HarvestCraft - DONE
 - change vanilla fence/gate/door recipes to match 1.8 - DONE
 - add 1.8-style fence/gate/door recipes for Natura woods - DONE
-- configured Thaumcraft Mob Aspects for: MoCreatures, OceanCraft, EBXL, Obsidian Boat, GrowthCraft, Sinhika's Bark,
+- configured JAS for all the biomes/mobs - MOSTLY DONE
+- configured Thaumcraft Mob Aspects for: MoCreatures, OceanCraft, EBXL, Obsidian Boat, GrowthCraft, Sinhika's Bark
 - added 'enriched' Simple Ores generation to Deep Darks - BROKE
+- installed ModTweaks
+- installed & configured OpenBlocks
+
 	
