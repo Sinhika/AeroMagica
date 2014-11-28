@@ -90,7 +90,7 @@ key_MoCreatures GUI:64
 key_key.archimedes.up:45
 key_key.archimedes.down:44
 key_key.archimedes.brake:46
-key_key.archimedes.align:65
+key_key.archimedes.align:62
 key_key.archimedes.decompile:64
 key_key.archimedes.shipinv:37
 key_key.personalBackpack:47

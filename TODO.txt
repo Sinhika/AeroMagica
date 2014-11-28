@@ -16,3 +16,6 @@ TO DO
 --------------
 Install/Update
 --------------
+- update Botania
+- update Bibliocraft
+- update Schematica
