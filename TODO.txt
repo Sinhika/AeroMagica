@@ -19,3 +19,6 @@ Install/Update
 - update Botania
 - update Bibliocraft
 - update Schematica
+- install ThaumCarpentry
+- install Old One's Grinder
+- 
