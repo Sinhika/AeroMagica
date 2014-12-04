@@ -43,6 +43,10 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 172,enchantment.ttinkerer:tunnel,digger,1,5,thaumic.tinkerer.common.enchantment.EnchantmentTunnel
 173,enchantment.ttinkerer:valiance,weapon,1,5,thaumic.tinkerer.common.enchantment.EnchantmentValiance
 196,Reading,armor_head,1,1,jds.bibliocraft.EnchantmentReading
+197,Eternal Compass,all,1,1,jds.bibliocraft.EnchantmentDeathCompass
+211,enchantment.openblocks.explosive,armor,1,3,openblocks.enchantments.EnchantmentExplosive
+212,enchantment.openblocks.laststand,armor,1,2,openblocks.enchantments.EnchantmentLastStand
+213,enchantment.openblocks.flimflam,all,1,4,openblocks.enchantments.EnchantmentFlimFlam
 220,enchantment.ttinkerer:ascentBoost,armor_legs,1,4,thaumic.tinkerer.common.enchantment.EnchantmentAscentBoost
 221,enchantment.ttinkerer:slowFall,armor_feet,1,3,thaumic.tinkerer.common.enchantment.EnchantmentSlowFall
 222,enchantment.ttinkerer:autoSmelt,digger,1,1,thaumic.tinkerer.common.enchantment.EnchantmentAutoSmelt

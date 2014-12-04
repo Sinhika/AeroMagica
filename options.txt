@@ -94,9 +94,6 @@ key_key.archimedes.align:62
 key_key.archimedes.decompile:64
 key_key.archimedes.shipinv:37
 key_key.personalBackpack:47
-key_schematica.key.load:181
-key_schematica.key.save:55
-key_schematica.key.control:74
 key_Baubles Inventory:48
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
@@ -105,17 +102,13 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_key.tarmor:24
-key_key.tgoggles:34
-key_key.tbelt:48
-key_key.tzoom:44
 key_ttmisc.toggleArmor:22
-key_key.journeymap.hotkeys_toggle:36
+key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.day:26
 key_key.journeymap.night:27
-key_key.journeymap.minimap_position:43
+key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:49
 soundCategory_master:1.0
 soundCategory_music:0.0

@@ -1,10 +1,7 @@
 TO DO
 ======
-- Ore or Stone Generation mods: UBC, Chisel, TiC, Simple Ores2...
-- Ore generation between mods.
-- bacon & bacon jerky from TiC--find and oredict with cooked pork.
 - configure Ruins
-- - do not need "Simple Cthon" or "Golden Glitter"
+- do not need "Simple Cthon" or "Golden Glitter"
 - integrate BOP stuff
 -- integrate BOP foods with HarvestCraft.
 -- integrate redundant BOP woods with Natura/EBXL door/fence/gate recipes.
@@ -12,13 +9,10 @@ TO DO
 - integrate MoCreatures stuff (Dimension ID=-17)
 - ore generation for Deep Darks (Dimension ID=-100)
 - configure Thaumcraft Mob Aspects
+- use ModTweaker to set TC aspects for simple ores/akkamaddi's.
 
 --------------
 Install/Update
 --------------
-- update Botania
-- update Bibliocraft
-- update Schematica
-- install ThaumCarpentry
-- install Old One's Grinder
-- 
+- install Village Taverns 2 if ever updated to 1.7.10
+

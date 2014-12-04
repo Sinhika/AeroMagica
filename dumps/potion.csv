@@ -32,6 +32,7 @@ ID,Unlocalised name,Class
 31,potion.binding,flaxbeard.thaumicexploration.misc.TXPotion
 32,potion.taintWithdrawl,flaxbeard.thaumicexploration.misc.TXTaintPotion
 33,potion.sunscorned,thaumcraft.common.lib.potions.PotionSunScorned
+34,potion.thaumarhia,thaumcraft.common.lib.potions.PotionThaumarhia
 50,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
 86,Fire Imbued,thaumic.tinkerer.common.potion.DummyPotions
 87,Wated Imbued,thaumic.tinkerer.common.potion.DummyPotions
