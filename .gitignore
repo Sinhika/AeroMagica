@@ -21,9 +21,9 @@ examplesAndDocs/*
 crash-reports/*
 logs/*
 journeyMap/*
-mods/*
 !mods/ruins.txt
-!mods/resources/ruins/*
+!*.tml
+*_log.txt
 screenshots/*
 resourcepacks/*
 saves/*
@@ -34,4 +34,5 @@ unused_mods/*
 .classpath
 *.jar
 *.errored
+*.zip
 1213309934
