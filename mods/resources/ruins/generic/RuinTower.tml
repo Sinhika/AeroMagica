@@ -11,9 +11,7 @@ max_leveling=2
 leveling_buffer=1
 preserve_water=0
 preserve_lava=0
-preserve_plants=1
-
-
+preserve_plants=0
 rule1=0,100,wooden_slab
 rule2=0,100,planks
 rule3=0,100,wool-14
@@ -32,10 +30,10 @@ rule15=2,100,torch-1
 rule16=2,100,torch-3
 rule17=0,100,stonebrick-3
 rule18=0,100,fence
-# redstone_ore is placeholder for firetrap or other rune
-rule19=0,100,redstone_ore
+# placeholder for firetrap or other rune
+rule19=0,100,air
 rule20=0,100,iron_bars
-rule21=0,100,chest-4
+rule21=0,100,ChestGenHook:villageBlacksmith:2-4
 rule22=0,100,wool
 rule23=0,100,wool-10
 

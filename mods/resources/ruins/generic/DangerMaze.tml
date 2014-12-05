@@ -1,7 +1,7 @@
 # Converted from schematic
 # THIS TEMPLATE USES DEFAULTS!  Please edit for corrections.
 # If you need help, consult template_rules.txt
-
+uniqueMinDistance=2000
 weight=1
 embed_into_distance=5
 acceptable_target_blocks=stone,grass,dirt,sand,gravel
@@ -12,8 +12,6 @@ leveling_buffer=1
 preserve_water=0
 preserve_lava=0
 preserve_plants=0
-
-
 rule1=0,100,stone
 rule2=0,100,dirt
 rule3=0,100,coal_ore
