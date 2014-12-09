@@ -41,6 +41,8 @@ DONE LIST
 - install FusionBlacksmith - DONE
 - install ChickenChunks - DONE
 - install ThaumCarpentry- DONE
+- ore-dicted BOP mushrooms, sunflower seeds, berry, persimmon, barley.
+- installed Rivvest's Revamp - DONE
 
 - added 'enriched' Simple Ores generation to Deep Darks - BROKE
 - configured JAS for all the biomes/mobs - MOSTLY DONE

@@ -8,6 +8,10 @@
 <ore:seedBarley>.add(<Natura:barley.seed:0>);
 <ore:listAllgrain>.add(<Natura:barleyFood:0>);
 
+# add BoP barley to ore dict.
+<ore:cropBarley>.add(<BiomesOPlenty:plants:6>);
+<ore:listAllgrain>.add(<BiomesOPlenty:plants:6>);
+
 # remove HarvestCraft barley seeds from tall grass drop
 # (they have already been configured to drop from tall grass instead
 #  gardens, this should remove them from appearing in-game at all.)
@@ -23,11 +27,19 @@ recipes.removeShaped(<minecraft:cake>,
 	 [null, <Natura:barleyFood:*>, null]]);
 furnace.remove(<minecraft:bread:*>, <Natura:barleyFood:*> );
 
+# remove BoP barley -> wheat recipe.
+recipes.removeShaped(<minecraft:wheat>, 
+[[
+<BiomesOPlenty:plants:6>, <BiomesOPlenty:plants:6>, <BiomesOPlenty:plants:6>
+]]);
+
 # let flour work in cake recipe
 recipes.addShaped(<minecraft:cake>,
 	[[<ore:listAllmilk>, <ore:listAllmilk>, <ore:listAllmilk>],
 	 [<minecraft:sugar>, <minecraft:egg>, <minecraft:sugar>],
 	 [<ore:flourEqualswheat>, <ore:flourEqualswheat>, <ore:flourEqualswheat>]]);
+
+# TODO: cattails + mortar -> flour recipe
 
 # MILK
 # coconut milk is a milk
@@ -93,9 +105,28 @@ furnace.addRecipe(<harvestcraft:toastItem>, <ashenwheat:scintillaBread>);
 # MUSHROOMS
 <ore:listAllmushroom>.add(<Natura:Glowshroom:*>);
 
+# BoP note: don't add either Toadstool or Shadow Shroom as edible.
+# preserves BoP shroom salad recipe.
+<ore:listAllmushroom>.add(<BiomesOPlenty:mushrooms:1>); # Portabello
+<ore:listAllmushroom>.add(<BiomesOPlenty:mushrooms:2>); # Blue Milk Cap
+<ore:listAllmushroom>.add(<BiomesOPlenty:mushrooms:3>); # Glowshroom
+<ore:listAllmushroom>.add(<BiomesOPlenty:mushrooms:4>); # Flat mushroom
+
+
 # ROOTS
 <ore:listAllrootveggie>.add(<minecraft:potato>);
 <ore:listAllrootveggie>.add(<minecraft:carrot>);
+
+<BiomesOPlenty:food:11>.displayName = "Wild Turnip";
+<BiomesOPlenty:turnipSeeds>.displayName = "Wild Turnip Seeds";
+<ore:listAllrootveggie>.add(<BiomesOPlenty:food:11>);   # BoP turnip
+<ore:listAllseed>.add(<BiomesOPlenty:turnipSeeds>);
+<ore:listAllrootveggie>.add(<BiomesOPlenty:food:2>);   # BoP wild carrot
+<ore:cropCarrot>.add(<BiomesOPlenty:food:2>);   # BoP wild carrot
+
+# SEEDS
+<ore:listAllseed>.add(<BiomesOPlenty:food:3>); # BoP sunflower seeds
+<ore:cropSunflower>.add(<BiomesOPlenty:food:3>); # BoP sunflower seeds
 
 # BAMBOO
 <harvestcraft:bambooshootItem>.displayName = "Dwarf Bamboo Shoot";
@@ -109,7 +140,7 @@ furnace.addRecipe(<harvestcraft:toastItem>, <ashenwheat:scintillaBread>);
 <ore:foodGrapes>.add(<harvestcraft:grapeItem>);
 <ore:seedGrapes>.mirror(<ore:seedGrape>);
 
-# OTHER NATURA BERRIES
+# OTHER BERRIES
 # Natura berries already ore-dictified. Mostly.
 <ore:listAllfruit>.add(<Natura:berry:3>);
 <ore:listAllberry>.add(<Natura:berry:3>);
@@ -121,3 +152,10 @@ furnace.addRecipe(<harvestcraft:toastItem>, <ashenwheat:scintillaBread>);
 <ore:listAllberry>.add(<Natura:berry.nether:2>);
 <ore:listAllfruit>.add(<Natura:berry.nether:3>);
 <ore:listAllberry>.add(<Natura:berry.nether:3>);
+
+<ore:listAllberry>.add(<BiomesOPlenty:food:0>); #BoP Berry
+<ore:listAllfruit>.add(<BiomesOPlenty:food:0>);
+
+# OTHER FRUIT
+<ore:listAllfruit>.add(<BiomesOPlenty:food:8>); # BoP Persimmon
+<ore:cropPersimmon>.add(<BiomesOPlenty:food:8>); # BoP Persimmon
