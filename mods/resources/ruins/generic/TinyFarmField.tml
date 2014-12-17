@@ -1,7 +1,7 @@
 # Author: Malgor
 # From: Minecraft Forums
 
-weight=3
+weight=5
 embed_into_distance=0
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
 dimensions=3,7,7

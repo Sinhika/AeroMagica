@@ -2,7 +2,7 @@
 # authoring Player: AtomicStryker
 
 weight=1
-unique=1
+UniqueMinDistance=2000
 embed_into_distance=8
 acceptable_target_blocks=
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
