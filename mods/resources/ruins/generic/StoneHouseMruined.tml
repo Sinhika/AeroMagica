@@ -1,13 +1,13 @@
-# Converted from schematic
-# THIS TEMPLATE USES DEFAULTS!  Please edit for corrections.
-# If you need help, consult template_rules.txt
-weight=1
-embed_into_distance=1
-unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,Natura:Cloud
+
+
+
+weight=2
+embed_into_distance=0
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
 dimensions=8,10,12
-allowable_overhang=0
+allowable_overhang=1
 max_leveling=2
-leveling_buffer=1
+leveling_buffer=0
 preserve_water=0
 preserve_lava=0
 preserve_plants=1
