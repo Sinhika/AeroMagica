@@ -8,7 +8,7 @@ biomesToSpawnIn=plains,extreme hills,forest,swampland,foresthills,extreme hills 
 	extreme hills m,flower forest,swampland m,shrubland,snow forest,woodlands,extreme hills+ m
 	
 uniqueMinDistance=500
-weight=1
+weight=10
 embed_into_distance=0
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
 dimensions=12,15,11

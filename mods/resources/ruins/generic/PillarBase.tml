@@ -1,7 +1,7 @@
 # Author: RoofFiddler
 # From: Minecraft Forums
 
-weight=8
+weight=20
 embed_into_distance=1
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,snow,snow_layer
 dimensions=7,4,4

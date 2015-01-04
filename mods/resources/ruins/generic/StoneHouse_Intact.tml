@@ -1,7 +1,7 @@
 # Converted from schematic
 # THIS TEMPLATE USES DEFAULTS!  Please edit for corrections.
 # If you need help, consult template_rules.txt
-weight=1
+weight=10
 embed_into_distance=1
 uniqueMinDistance=5000
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,Natura:Cloud

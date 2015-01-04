@@ -3,8 +3,8 @@
 # based on a design by Mantonization (http://redd.it/lolso)
 # formivore fixed stairs to the new metas
 
-weight=3
-UniqueMinDistance=500
+weight=1
+UniqueMinDistance=1000
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,sand,sandstone
 embed_into_distance=1
 dimensions=5,21,26

@@ -1,4 +1,4 @@
-weight=5
+weight=10
 embed_into_distance=9
 acceptable_target_blocks=stone,grass,dirt,sand,gravel,clay
 dimensions=9,11,11

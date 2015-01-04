@@ -6,7 +6,7 @@ biomesToSpawnIn=taiga,taigahills,birch forest,birch forest hills,cold taiga,cold
 	birch forest hills m,mega spruce taiga
 	
 uniqueMinDistance=500
-weight=1
+weight=10
 embed_into_distance=0
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
 dimensions=12,15,11

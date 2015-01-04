@@ -1,7 +1,7 @@
 
 weight=5
 embed_into_distance=0
-acceptable_target_blocks=stone,grass,dirt,gravel
+acceptable_target_blocks=grass,dirt
 dimensions=7,42,19
 max_leveling=2
 cut_in_buffer=0

@@ -1,4 +1,4 @@
-weight=1
+weight=20
 embed_into_distance=1
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,Natura:Cloud,sand
 dimensions=5,17,9

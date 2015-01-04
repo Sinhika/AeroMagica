@@ -1,7 +1,7 @@
 # Author: d00dv4d3r
 # From: Default Template
 
-weight=5
+weight=20
 embed_into_distance=1
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,Natura:Cloud
 dimensions=9,7,7

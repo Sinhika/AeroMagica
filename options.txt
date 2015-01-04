@@ -94,9 +94,13 @@ key_key.archimedes.align:62
 key_key.archimedes.decompile:64
 key_key.archimedes.shipinv:37
 key_key.personalBackpack:47
+key_schematica.key.load:39
+key_schematica.key.save:55
+key_schematica.key.control:40
 key_Baubles Inventory:48
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
+key_Misc Wand Toggle:34
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80

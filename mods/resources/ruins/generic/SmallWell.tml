@@ -1,6 +1,6 @@
 # Author: GnomeWorks
 # From: Minecraft Forums
-weight=3
+weight=20
 embed_into_distance=5
 unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,Natura:Cloud
 dimensions=7,3,3

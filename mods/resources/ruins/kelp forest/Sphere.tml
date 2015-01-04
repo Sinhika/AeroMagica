@@ -1,7 +1,7 @@
 # Author: Arrrg
 # From: Minecraft Forums
 
-weight=16
+weight=1
 embed_into_distance=12
 acceptable_target_blocks=water
 dimensions=30,30,30

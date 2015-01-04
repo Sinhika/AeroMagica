@@ -1,5 +1,5 @@
 weight=1
-unique=1
+uniqueMinDistance=5000
 embed_into_distance=14
 acceptable_target_blocks=water
 dimensions=11,35,34

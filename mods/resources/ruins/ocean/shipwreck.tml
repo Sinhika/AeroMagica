@@ -2,11 +2,11 @@
 # Created by Ruins mod version 13.0 Ingame Parser
 # authoring Player: AtomicStryker
 
-biomesToSpawnIn=ocean,deep ocean,kelp forest,ocean oil field,oceanic abyss,coral reef
-weight=5
+biomesToSpawnIn=ocean,deep ocean,kelp forest,frozenocean,coral reef
+weight=20
 embed_into_distance=1
 acceptable_target_blocks=
-unacceptable_target_blocks=flowing_lava,lava
+unacceptable_target_blocks=flowing_lava,lava,water,flowing_water
 dimensions=13,26,8
 allowable_overhang=12
 max_leveling=5

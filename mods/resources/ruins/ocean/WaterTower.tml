@@ -4,7 +4,7 @@
 
 weight=1
 embed_into_distance=5
-acceptable_target_blocks=stone,grass,dirt,sand,gravel
+acceptable_target_blocks=stone,grass,dirt,sand
 dimensions=20,13,12
 allowable_overhang=0
 max_leveling=2
