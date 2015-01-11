@@ -6,7 +6,6 @@ TO DO
 -- integrate BOP foods with HarvestCraft.
 -- BoP honey?
 -- integrate redundant BOP woods with Natura/EBXL door/fence/gate recipes.
-- JustAnotherSpawner for MoCreatures stuff.
 - integrate MoCreatures stuff (Dimension ID=-17)
 - ore generation for Deep Darks (Dimension ID=-100)
 - configure Thaumcraft Mob Aspects
@@ -16,4 +15,3 @@ TO DO
 Install/Update
 --------------
 - install Village Taverns 2 if ever updated to 1.7.10
- 
