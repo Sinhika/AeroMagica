@@ -85,18 +85,15 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_MoCreatures Dive:44
-key_MoCreatures GUI:0
+key_MoCreatures Dive:33
+key_MoCreatures GUI:64
 key_key.archimedes.up:45
 key_key.archimedes.down:44
 key_key.archimedes.brake:46
-key_key.archimedes.align:62
-key_key.archimedes.decompile:64
+key_key.archimedes.align:13
+key_key.archimedes.decompile:43
 key_key.archimedes.shipinv:37
-key_key.personalBackpack:47
-key_schematica.key.load:39
-key_schematica.key.save:55
-key_schematica.key.control:40
+key_key.personalBackpack:48
 key_Baubles Inventory:48
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
@@ -106,7 +103,7 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_key.llor.hotkey:65
+key_key.llor.hotkey:62
 key_ttmisc.toggleArmor:22
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
@@ -114,7 +111,7 @@ key_key.journeymap.zoom_out:12
 key_key.journeymap.day:26
 key_key.journeymap.night:27
 key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:49
+key_key.journeymap.create_waypoint:48
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
