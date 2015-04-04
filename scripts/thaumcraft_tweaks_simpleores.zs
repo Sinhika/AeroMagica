@@ -9,7 +9,7 @@
 #mods.thaumcraft.Aspects.set(<simpleores:adamantium_chestplate>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:adamantium_helmet>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:adamantium_hoe>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_ingot>, "");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_ingot>, "metallum 3, ordo 1, machina 1");
 #mods.thaumcraft.Aspects.set(<simpleores:adamantium_leggings>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:adamantium_ore>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:adamantium_pickaxe>, "");
@@ -17,7 +17,7 @@
 #mods.thaumcraft.Aspects.set(<simpleores:adamantium_shovel>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:adamantium_sword>, "");
 mods.thaumcraft.Aspects.set(<simpleores:copper_axe>, "instrumentum 2, metallum 4, permutatio 2");
-#mods.thaumcraft.Aspects.set(<simpleores:copper_bars>, "");
+mods.thaumcraft.Aspects.set(<simpleores:copper_bars>, "metallum 1, vinculum 1, permutatio 1");
 mods.thaumcraft.Aspects.set(<simpleores:copper_block>, "metallum 10, permutatio 9");
 mods.thaumcraft.Aspects.set(<simpleores:copper_boots>, "metallum 4, tutamen 1, permutatio 2");
 mods.thaumcraft.Aspects.set(<simpleores:copper_bucket>, "metallum 7, vacuos 1, permutatio 1");
@@ -42,7 +42,7 @@ mods.thaumcraft.Aspects.set(<simpleores:copper_sword>, "metallum 4, arbor 1, tel
 #mods.thaumcraft.Aspects.set(<simpleores:mythril_furnace_lit>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:mythril_helmet>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:mythril_hoe>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:mythril_ingot>, "");
+mods.thaumcraft.Aspects.set(<simpleores:mythril_ingot>, "metallum 3, lucrum 1, praecantio 1");
 #mods.thaumcraft.Aspects.set(<simpleores:mythril_leggings>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:mythril_ore>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:mythril_pickaxe>, "");
@@ -59,7 +59,7 @@ mods.thaumcraft.Aspects.set(<simpleores:copper_sword>, "metallum 4, arbor 1, tel
 #mods.thaumcraft.Aspects.set(<simpleores:onyx_door_block>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:onyx_furnace>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:onyx_furnace_lit>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:onyx_gem>, "");
+mods.thaumcraft.Aspects.set(<simpleores:onyx_gem>, "vitreus 3, tenebrae 1, ordo 1");
 #mods.thaumcraft.Aspects.set(<simpleores:onyx_helmet>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:onyx_hoe>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:onyx_leggings>, "");
@@ -70,16 +70,16 @@ mods.thaumcraft.Aspects.set(<simpleores:copper_sword>, "metallum 4, arbor 1, tel
 #mods.thaumcraft.Aspects.set(<simpleores:onyx_shovel>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:onyx_sword>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:tin_axe>, "");
-mods.thaumcraft.Aspects.set(<simpleores:tin_bars>, "metallum 10, vitreus 9");
-#mods.thaumcraft.Aspects.set(<simpleores:tin_block>, "");
+#mods.thaumcraft.Aspects.set(<simpleores:tin_bars>, "");
+mods.thaumcraft.Aspects.set(<simpleores:tin_block>, "metallum 10, vitreus 9");
 #mods.thaumcraft.Aspects.set(<simpleores:tin_boots>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:tin_chestplate>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:tin_helmet>, "");
 #mods.thaumcraft.Aspects.set(<simpleores:tin_hoe>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:tin_ingot>, "");
+mods.thaumcraft.Aspects.set(<simpleores:tin_ingot>, "metallum 3, vitreus 1");
 #mods.thaumcraft.Aspects.set(<simpleores:tin_leggings>, "");
-mods.thaumcraft.Aspects.set(<simpleores:tin_ore>, "metallum 3, perditio 1, vitreus 1");
-mods.thaumcraft.Aspects.set(<simpleores:tin_sword>, "metallum 4, arbor 1, telum 2, perditio 2");
+mods.thaumcraft.Aspects.set(<simpleores:tin_ore>, "metallum 3, terra 1, vitreus 1");
+mods.thaumcraft.Aspects.set(<simpleores:tin_sword>, "metallum 4, arbor 1, telum 2, vitreus 2");
 
 # Fusion
 #mods.thaumcraft.Aspects.set(<fusionplugin:bronze_axe> ,"");
@@ -88,7 +88,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<fusionplugin:bronze_chestplate> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:bronze_helmet> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:bronze_hoe> ,"");
-#mods.thaumcraft.Aspects.set(<fusionplugin:bronze_ingot> ,"");
+mods.thaumcraft.Aspects.set(<fusionplugin:bronze_ingot> ,"metallum 3, instrumentum 1");
 #mods.thaumcraft.Aspects.set(<fusionplugin:bronze_leggings> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:bronze_pickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:bronze_shovel> ,"");
@@ -108,7 +108,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<fusionplugin:sinisite_chestplate> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:sinisite_helmet> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:sinisite_hoe> ,"");
-#mods.thaumcraft.Aspects.set(<fusionplugin:sinisite_ingot> ,"");
+mods.thaumcraft.Aspects.set(<fusionplugin:sinisite_ingot> ,"metallum 3, ordo 2, machina 1");
 #mods.thaumcraft.Aspects.set(<fusionplugin:sinisite_leggings> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:sinisite_pickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:sinisite_rod> ,"");
@@ -124,7 +124,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<fusionplugin:thyrium_chestplate> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:thyrium_helmet> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:thyrium_hoe> ,"");
-#mods.thaumcraft.Aspects.set(<fusionplugin:thyrium_ingot> ,"");
+mods.thaumcraft.Aspects.set(<fusionplugin:thyrium_ingot> ,"metallum 3, ordo 1, praecantio 2");
 #mods.thaumcraft.Aspects.set(<fusionplugin:thyrium_leggings> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:thyrium_pickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<fusionplugin:thyrium_rod> ,"");
@@ -135,14 +135,14 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<netherrocks:argonite_axe>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:argonite_block>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:argonite_hoe>, "");
-#mods.thaumcraft.Aspects.set(<netherrocks:argonite_ingot>, "");
+mods.thaumcraft.Aspects.set(<netherrocks:argonite_ingot>, "metallum 3, ordo 1, sensus 1, praecantio 1");
 #mods.thaumcraft.Aspects.set(<netherrocks:argonite_ore>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:argonite_pickaxe>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:argonite_shovel>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:argonite_sword>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:ashstone_axe>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:ashstone_block>, "");
-#mods.thaumcraft.Aspects.set(<netherrocks:ashstone_gem>, "");
+mods.thaumcraft.Aspects.set(<netherrocks:ashstone_gem>, "vitreus 3, tenebrae 1, ignis 1");
 #mods.thaumcraft.Aspects.set(<netherrocks:ashstone_hoe>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:ashstone_ore>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:ashstone_pickaxe>, "");
@@ -152,7 +152,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<netherrocks:dragonstone_block>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:dragonstone_boots>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:dragonstone_chestplate>, "");
-#mods.thaumcraft.Aspects.set(<netherrocks:dragonstone_gem>, "");
+mods.thaumcraft.Aspects.set(<netherrocks:dragonstone_gem>, "vitreus 3, ordo 2, praecantio 1");
 #mods.thaumcraft.Aspects.set(<netherrocks:dragonstone_helmet>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:dragonstone_hoe>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:dragonstone_leggings>, "");
@@ -164,7 +164,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<netherrocks:fyrite_boots>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:fyrite_chestplate>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:fyrite_helmet>, "");
-#mods.thaumcraft.Aspects.set(<netherrocks:fyrite_ingot>, "");
+mods.thaumcraft.Aspects.set(<netherrocks:fyrite_ingot>, "metallum 3, ignis 2");
 #mods.thaumcraft.Aspects.set(<netherrocks:fyrite_leggings>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:fyrite_ore>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:fyrite_pickaxe>, "");
@@ -173,7 +173,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<netherrocks:illumenite_boots>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:illumenite_chestplate>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:illumenite_helmet>, "");
-#mods.thaumcraft.Aspects.set(<netherrocks:illumenite_ingot>, "");
+mods.thaumcraft.Aspects.set(<netherrocks:illumenite_ingot>, "metallum 3, lux 2");
 #mods.thaumcraft.Aspects.set(<netherrocks:illumenite_leggings>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:illumenite_ore>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:illumenite_sword>, "");
@@ -183,7 +183,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<netherrocks:malachite_chestplate>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:malachite_helmet>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:malachite_hoe>, "");
-#mods.thaumcraft.Aspects.set(<netherrocks:malachite_ingot>, "");
+mods.thaumcraft.Aspects.set(<netherrocks:malachite_ingot>, "metallum 3, praecantio 3");
 #mods.thaumcraft.Aspects.set(<netherrocks:malachite_leggings>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:malachite_ore>, "");
 #mods.thaumcraft.Aspects.set(<netherrocks:malachite_pickaxe>, "");
@@ -202,7 +202,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueCeladonChest>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueCeladonHelm>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueCeladonHoe>, "");
-#mods.thaumcraft.Aspects.set(<simplecobalt:blueCeladonIngot>, "");
+mods.thaumcraft.Aspects.set(<simplecobalt:blueCeladonIngot>, "metallum 3, praecantio 1, sensus 1");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueCeladonLegs>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueCeladonPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueCeladonShovel>, "");
@@ -212,7 +212,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueDriftSteelChest>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueDriftSteelHelm>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueDriftSteelHoe>, "");
-#mods.thaumcraft.Aspects.set(<simplecobalt:blueDriftSteelIngot>, "");
+mods.thaumcraft.Aspects.set(<simplecobalt:blueDriftSteelIngot>, "metallum 3, praecantio 1, ordo 1");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueDriftSteelLegs>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueDriftSteelPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:blueDriftSteelShovel>, "");
@@ -222,7 +222,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<simplecobalt:cobaltChest>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:cobaltHelm>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:cobaltHoe>, "");
-#mods.thaumcraft.Aspects.set(<simplecobalt:cobaltIngot>, "");
+mods.thaumcraft.Aspects.set(<simplecobalt:cobaltIngot>, "metallum 3, praecantio 1");
 #mods.thaumcraft.Aspects.set(<simplecobalt:cobaltLegs>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:cobaltPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:cobaltShovel>, "");
@@ -232,7 +232,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<simplecobalt:greenCeladonChest>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:greenCeladonHelm>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:greenCeladonHoe>, "");
-#mods.thaumcraft.Aspects.set(<simplecobalt:greenCeladonIngot>, "");
+mods.thaumcraft.Aspects.set(<simplecobalt:greenCeladonIngot>, "metallum 3, praecantio 1, machina 1");
 #mods.thaumcraft.Aspects.set(<simplecobalt:greenCeladonLegs>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:greenCeladonPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<simplecobalt:greenCeladonShovel>, "");
@@ -267,7 +267,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<simpletungsten:prasinosChest>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:prasinosHelm>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:prasinosHoe>, "");
-#mods.thaumcraft.Aspects.set(<simpletungsten:prasinosIngot>, "");
+mods.thaumcraft.Aspects.set(<simpletungsten:prasinosIngot>, "metallum 3, ordo 1, machina 1");
 #mods.thaumcraft.Aspects.set(<simpletungsten:prasinosLegs>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:prasinosPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:prasinosShovel>, "");
@@ -282,7 +282,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenCarbideChest>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenCarbideHelm>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenCarbideHoe>, "");
-#mods.thaumcraft.Aspects.set(<simpletungsten:tungstenCarbideIngot>, "");
+mods.thaumcraft.Aspects.set(<simpletungsten:tungstenCarbideIngot>, "metallum 2, vitreum 1, ordo 1");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenCarbideLegs>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenCarbidePickaxe>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenCarbideShovel>, "");
@@ -290,7 +290,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenChest>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenHelm>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenHoe>, "");
-#mods.thaumcraft.Aspects.set(<simpletungsten:tungstenIngot>, "");
+mods.thaumcraft.Aspects.set(<simpletungsten:tungstenIngot>, "metallum 3, ordo 1");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenLegs>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenShovel>, "");
@@ -299,7 +299,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenSteelChest>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenSteelHelm>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenSteelHoe>, "");
-#mods.thaumcraft.Aspects.set(<simpletungsten:tungstenSteelIngot>, "");
+mods.thaumcraft.Aspects.set(<simpletungsten:tungstenSteelIngot>, "metallum 3, ordo 2");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenSteelLegs>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenSteelPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:tungstenSteelShovel>, "");
@@ -310,7 +310,7 @@ mods.thaumcraft.Aspects.set(<fusionplugin:bronze_block> ,"metallum 10, instrumen
 #mods.thaumcraft.Aspects.set(<simpletungsten:valframChest>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:valframHelm>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:valframHoe>, "");
-#mods.thaumcraft.Aspects.set(<simpletungsten:valframIngot>, "");
+mods.thaumcraft.Aspects.set(<simpletungsten:valframIngot>, "metallum 1, vitreum 2, ordo 1");
 #mods.thaumcraft.Aspects.set(<simpletungsten:valframLegs>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:valframPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<simpletungsten:valframShovel>, "");
@@ -323,7 +323,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<steelyglint:blockRefinedIron>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:carbonizedIronAxe>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:carbonizedIronHoe>, "");
-#mods.thaumcraft.Aspects.set(<steelyglint:carbonizedIronIngot>, "");
+mods.thaumcraft.Aspects.set(<steelyglint:carbonizedIronIngot>, "metallum 2, potentia 1, ignis 1");
 #mods.thaumcraft.Aspects.set(<steelyglint:carbonizedIronPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:carbonizedIronShovel>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:carbonizedIronSword>, "");
@@ -333,7 +333,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<steelyglint:highSteelChest>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:highSteelHelm>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:highSteelHoe>, "");
-#mods.thaumcraft.Aspects.set(<steelyglint:highSteelIngot>, "");
+mods.thaumcraft.Aspects.set(<steelyglint:highSteelIngot>, "metallum 3, ordo 1, machina 1");
 #mods.thaumcraft.Aspects.set(<steelyglint:highSteelLegs>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:highSteelPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:highSteelShovel>, "");
@@ -347,7 +347,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<steelyglint:lowSteelChest>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:lowSteelHelm>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:lowSteelHoe>, "");
-#mods.thaumcraft.Aspects.set(<steelyglint:lowSteelIngot>, "");
+mods.thaumcraft.Aspects.set(<steelyglint:lowSteelIngot>, "metallum 3, ordo 2");
 #mods.thaumcraft.Aspects.set(<steelyglint:lowSteelLegs>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:lowSteelPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:lowSteelShovel>, "");
@@ -356,7 +356,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<steelyglint:mediumRefinedIronChunkItem>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:refinedIronAxe>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:refinedIronHoe>, "");
-#mods.thaumcraft.Aspects.set(<steelyglint:refinedIronIngot>, "");
+mods.thaumcraft.Aspects.set(<steelyglint:refinedIronIngot>, "metallum 2, sensus 1");
 #mods.thaumcraft.Aspects.set(<steelyglint:refinedIronPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:refinedIronShovel>, "");
 #mods.thaumcraft.Aspects.set(<steelyglint:refinedIronSword>, "");
@@ -367,7 +367,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<sterlingandblack:blackSilverChest>, "");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:blackSilverHelm>, "");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:blackSilverHoe>, "");
-#mods.thaumcraft.Aspects.set(<sterlingandblack:blackSilverIngot>, "");
+mods.thaumcraft.Aspects.set(<sterlingandblack:blackSilverIngot>, "metallum 3, lucrum 1, tenebrae 1");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:blackSilverLegs>, "");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:blackSilverPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:blackSilverShovel>, "");
@@ -385,7 +385,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<sterlingandblack:sterlingSteelChest>, "");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:sterlingSteelHelm>, "");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:sterlingSteelHoe>, "");
-#mods.thaumcraft.Aspects.set(<sterlingandblack:sterlingSteelIngot>, "");
+mods.thaumcraft.Aspects.set(<sterlingandblack:sterlingSteelIngot>, "metallum 3, lucrum 1, ordo 1");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:sterlingSteelLegs>, "");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:sterlingSteelPickaxe>, "");
 #mods.thaumcraft.Aspects.set(<sterlingandblack:sterlingSteelShovel>, "");
@@ -393,27 +393,27 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #
 ## Hadite Coal
 #mods.thaumcraft.Aspects.set(<haditecoal:blockGestankenzinn> ,"");
-#mods.thaumcraft.Aspects.set(<haditecoal:blockHaditeCoalBlock> ,"");
-#mods.thaumcraft.Aspects.set(<haditecoal:blockHaditeCoalOre> ,"");
+mods.thaumcraft.Aspects.set(<haditecoal:blockHaditeCoalBlock> ,"potentia 27, ignis 27");
+mods.thaumcraft.Aspects.set(<haditecoal:blockHaditeCoalOre> ,"potentia 8, ignis 8, terra 1");
 #mods.thaumcraft.Aspects.set(<haditecoal:blockHaditeSteel> ,"");
 #mods.thaumcraft.Aspects.set(<haditecoal:gestankenzinnAxe> ,"");
-#mods.thaumcraft.Aspects.set(<haditecoal:gestankenzinnIngot> ,"");
+mods.thaumcraft.Aspects.set(<haditecoal:gestankenzinnIngot> ,"metallum 3, vitreus 1, ignis 1");
 #mods.thaumcraft.Aspects.set(<haditecoal:gestankenzinnPickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<haditecoal:gestankenzinnShovel> ,"");
 #mods.thaumcraft.Aspects.set(<haditecoal:gestankenzinnSword> ,"");
-#mods.thaumcraft.Aspects.set(<haditecoal:haditeCoalIngot> ,"");
+mods.thaumcraft.Aspects.set(<haditecoal:haditeCoalIngot> ,"potentia 9, ignis 9");
 #mods.thaumcraft.Aspects.set(<haditecoal:haditeSteelAxe> ,"");
-#mods.thaumcraft.Aspects.set(<haditecoal:haditeSteelIngot> ,"");
+mods.thaumcraft.Aspects.set(<haditecoal:haditeSteelIngot> ,"metallum 3, ordo 1, ignis 1");
 #mods.thaumcraft.Aspects.set(<haditecoal:haditeSteelPickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<haditecoal:haditeSteelShovel> ,"");
 #mods.thaumcraft.Aspects.set(<haditecoal:haditeSteelSword> ,"");
-#mods.thaumcraft.Aspects.set(<haditecoal:largeGestankenzinnChunkItem> ,"");
-#mods.thaumcraft.Aspects.set(<haditecoal:largeHaditeSteelChunkItem> ,"");
+mods.thaumcraft.Aspects.set(<haditecoal:largeGestankenzinnChunkItem> ,"metallum 2, vitreus 1, ignis 1");
+mods.thaumcraft.Aspects.set(<haditecoal:largeHaditeSteelChunkItem> ,"metallum 2, ordo 1, ignis 1");
 #
 ## Simple Arsenic & Old Lace
 #mods.thaumcraft.Aspects.set(<arsenic:arsenicAxe> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenicHoe> ,"");
-#mods.thaumcraft.Aspects.set(<arsenic:arsenicIngot> ,"");
+mods.thaumcraft.Aspects.set(<arsenic:arsenicIngot> ,"metallum 3, venenum 2");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenicPickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenicShovel> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenicSword> ,"");
@@ -422,7 +422,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideBronzeChest> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideBronzeHelm> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideBronzeHoe> ,"");
-#mods.thaumcraft.Aspects.set(<arsenic:arsenideBronzeIngot> ,"");
+mods.thaumcraft.Aspects.set(<arsenic:arsenideBronzeIngot> ,"metallum 3, venenum 1, instrumentum 1");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideBronzeLegs> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideBronzePickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideBronzeShovel> ,"");
@@ -432,12 +432,12 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideGoldChest> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideGoldHelm> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideGoldHoe> ,"");
-#mods.thaumcraft.Aspects.set(<arsenic:arsenideGoldIngot> ,"");
+mods.thaumcraft.Aspects.set(<arsenic:arsenideGoldIngot> ,"metallum 3, venenum 1, lucrum 1");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideGoldLegs> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideGoldPickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideGoldShovel> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:arsenideGoldSword> ,"");
-#mods.thaumcraft.Aspects.set(<arsenic:arsenideSaltItem> ,"");
+mods.thaumcraft.Aspects.set(<arsenic:arsenideSaltItem> ,"venenum 3, corpus 3");
 #mods.thaumcraft.Aspects.set(<arsenic:blockArsenic> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:blockArsenideBronze> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:blockArsenideGold> ,"");
@@ -450,10 +450,10 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<arsenic:mediumArsenideBronzeChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:mediumArsenideGoldChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:mediumTenebriumChunkItem> ,"");
-#mods.thaumcraft.Aspects.set(<arsenic:oldLaceChest> ,"");
-#mods.thaumcraft.Aspects.set(<arsenic:orpimentItem> ,"");
+mods.thaumcraft.Aspects.set(<arsenic:oldLaceChest> ,"pannus 2, corpus 1");
+mods.thaumcraft.Aspects.set(<arsenic:orpimentItem> ,"corpus 1, limus 1");
 #mods.thaumcraft.Aspects.set(<arsenic:plateArsenic> ,"");
-#mods.thaumcraft.Aspects.set(<arsenic:realgarItem> ,"");
+mods.thaumcraft.Aspects.set(<arsenic:realgarItem> ,"corpus 2");
 #mods.thaumcraft.Aspects.set(<arsenic:smallArsenicChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:smallArsenideBronzeChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:smallArsenideGoldChunkItem> ,"");
@@ -463,7 +463,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<arsenic:tenebriumChest> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:tenebriumHelm> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:tenebriumHoe> ,"");
-#mods.thaumcraft.Aspects.set(<arsenic:tenebriumIngot> ,"");
+mods.thaumcraft.Aspects.set(<arsenic:tenebriumIngot> ,"metallum 3, venenum 1, tenebrae 1");
 #mods.thaumcraft.Aspects.set(<arsenic:tenebriumLegs> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:tenebriumPickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<arsenic:tenebriumShovel> ,"");
@@ -503,7 +503,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<classicalalchemy:cuprumChest> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:cuprumHelm> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:cuprumHoe> ,"");
-#mods.thaumcraft.Aspects.set(<classicalalchemy:cuprumIngot> ,"");
+mods.thaumcraft.Aspects.set(<classicalalchemy:cuprumIngot> ,"metallum 3, permutatio 2");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:cuprumLegs> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:cuprumPickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:cuprumShovel> ,"");
@@ -512,13 +512,13 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<classicalalchemy:largePulchrumBronzeChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:largePyropusBronzeChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:largeStannumChunkItem> ,"");
-#mods.thaumcraft.Aspects.set(<classicalalchemy:largeTombBronzeChunkItem> ,"");
+mods.thaumcraft.Aspects.set(<classicalalchemy:largeTombBronzeChunkItem> ,"metallum 2, instrumentum 1, corpus 1");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:mediumCuprumChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:mediumPyropusBronzeChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:mediumStannumChunkItem> ,"");
-#mods.thaumcraft.Aspects.set(<classicalalchemy:mediumTombBronzeChunkItem> ,"");
+mods.thaumcraft.Aspects.set(<classicalalchemy:mediumTombBronzeChunkItem> ,"metallum 1, instrumentum 1, corpus 1");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pulchrumBronzeAxe> ,"");
-#mods.thaumcraft.Aspects.set(<classicalalchemy:pulchrumBronzeIngot> ,"");
+mods.thaumcraft.Aspects.set(<classicalalchemy:pulchrumBronzeIngot> ,"metallum 3, instrumentum 1, lucrum 1");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pulchrumBronzePickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pulchrumBronzeShovel> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pulchrumBronzeSword> ,"");
@@ -527,7 +527,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pyropusBronzeChest> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pyropusBronzeHelm> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pyropusBronzeHoe> ,"");
-#mods.thaumcraft.Aspects.set(<classicalalchemy:pyropusBronzeIngot> ,"");
+mods.thaumcraft.Aspects.set(<classicalalchemy:pyropusBronzeIngot> ,"metallum 3, instrumentum 2");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pyropusBronzeLegs> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pyropusBronzePickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:pyropusBronzeShovel> ,"");
@@ -535,13 +535,13 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<classicalalchemy:smallCuprumChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:smallPyropusBronzeChunkItem> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:smallStannumChunkItem> ,"");
-#mods.thaumcraft.Aspects.set(<classicalalchemy:smallTombBronzeChunkItem> ,"");
+mods.thaumcraft.Aspects.set(<classicalalchemy:smallTombBronzeChunkItem> ,"metallum 1, instrumentum 1, corpus 1");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:stannumAxe> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:stannumBoots> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:stannumChest> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:stannumHelm> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:stannumHoe> ,"");
-#mods.thaumcraft.Aspects.set(<classicalalchemy:stannumIngot> ,"");
+mods.thaumcraft.Aspects.set(<classicalalchemy:stannumIngot> ,"metallum 3, vitreum 2");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:stannumLegs> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:stannumPickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:stannumShovel> ,"");
@@ -550,7 +550,7 @@ mods.thaumcraft.Aspects.set(<steelyglint:blockHighSteel>, "metallum 10, ordo 9")
 #mods.thaumcraft.Aspects.set(<classicalalchemy:tombBronzeBoots> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:tombBronzeChest> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:tombBronzeHelm> ,"");
-#mods.thaumcraft.Aspects.set(<classicalalchemy:tombBronzeIngot> ,"");
+mods.thaumcraft.Aspects.set(<classicalalchemy:tombBronzeIngot> ,"metallum 3, instrumentum 1, corpus 1");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:tombBronzeLegs> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:tombBronzePickaxe> ,"");
 #mods.thaumcraft.Aspects.set(<classicalalchemy:tombBronzeShovel> ,"");
