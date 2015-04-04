@@ -1,11 +1,10 @@
 TO DO
 ======
 - configure Ruins
-- do not need "Simple Cthon" or "Golden Glitter"
+- do not need "Simple Cthon"
 - integrate BOP stuff
 -- integrate BOP foods with HarvestCraft.
 -- BoP honey?
--- integrate redundant BOP woods with Natura/EBXL door/fence/gate recipes.
 - integrate MoCreatures stuff (Dimension ID=-17)
 - ore generation for Deep Darks (Dimension ID=-100)
 - configure Thaumcraft Mob Aspects
