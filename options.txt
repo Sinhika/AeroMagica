@@ -11,7 +11,7 @@ anaglyph3d:false
 advancedOpengl:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:true
 ao:1
 clouds:true
@@ -106,6 +106,8 @@ key_waila.keybind.usage:75
 key_Automagy.key.focusCrafting:46
 key_key.llor.hotkey:62
 key_ttmisc.toggleArmor:22
+key_TG.keybind.openInv:71
+key_TG.keybind.activeaAbilities:19
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
