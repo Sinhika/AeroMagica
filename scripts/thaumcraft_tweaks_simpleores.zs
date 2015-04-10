@@ -1,22 +1,21 @@
 # thaumcraft_tweaks_simpleores.zs - add thaumcraft aspects to Simple Ores & Akkamaddi's Additions.
 #
 # Simple Ores 2
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_axe>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_axe>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_bars>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_block>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_boots>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_chestplate>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_helmet>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_hoe>, "");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_axe>, "instrumentum 2, arbor 1, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_bars>, "metallum 1, vinculum 1, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_block>, "metallum 10, ordo 9, machina 9");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_boots>, "tutamen 2, metallum 4, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_chestplate>, "tutamen 4, metallum 4, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_helmet>, "tutamen 2, metallum 5, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_hoe>, "meto 3, arbor 1, metallum 4, ordo 1, machina 1");
 mods.thaumcraft.Aspects.set(<simpleores:adamantium_ingot>, "metallum 3, ordo 1, machina 1");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_leggings>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_ore>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_pickaxe>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_shears>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_shovel>, "");
-#mods.thaumcraft.Aspects.set(<simpleores:adamantium_sword>, "");
-mods.thaumcraft.Aspects.set(<simpleores:copper_axe>, "instrumentum 2, metallum 4, permutatio 2");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_leggings>, "tutamen 3, metallum 5, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_ore>, "metallum 2, terra 1, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_pickaxe>, "metallum 5, perfodio 2, arbor 1, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_shears>, "metallum 2, meto 1, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_shovel>, "metallum 3, arbor 1, instrumentum 2, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:adamantium_sword>, ""metallum 4, arbor 1, telum 2, ordo 1, machina 1");
+mods.thaumcraft.Aspects.set(<simpleores:copper_axe>, "instrumentum 2, metallum 4, arbor 1, permutatio 2");
 mods.thaumcraft.Aspects.set(<simpleores:copper_bars>, "metallum 1, vinculum 1, permutatio 1");
 mods.thaumcraft.Aspects.set(<simpleores:copper_block>, "metallum 10, permutatio 9");
 mods.thaumcraft.Aspects.set(<simpleores:copper_boots>, "metallum 4, tutamen 1, permutatio 2");
@@ -25,12 +24,12 @@ mods.thaumcraft.Aspects.set(<simpleores:copper_chestplate>, "metallum 4, tutamen
 mods.thaumcraft.Aspects.set(<simpleores:copper_door>, "metallum 5, machina 2, motus 1, permutatio 1");
 mods.thaumcraft.Aspects.set(<simpleores:copper_door_block>, "metallum 5, machina 2, motus 1, permutatio 1");
 mods.thaumcraft.Aspects.set(<simpleores:copper_helmet>, "metallum 5, tutamen 2, permutatio 3");
-mods.thaumcraft.Aspects.set(<simpleores:copper_hoe>, "metallum 4, meto 3, permutatio 2");
+mods.thaumcraft.Aspects.set(<simpleores:copper_hoe>, "metallum 4, meto 3, arbor 1, permutatio 2");
 mods.thaumcraft.Aspects.set(<simpleores:copper_ingot>, "metallum 3, permutatio 1");
 mods.thaumcraft.Aspects.set(<simpleores:copper_leggings>, "metallum 5, tutamen 2, permutatio 3");
 mods.thaumcraft.Aspects.set(<simpleores:copper_ore>, "metallum 2, permutatio 1, terra 1");
-mods.thaumcraft.Aspects.set(<simpleores:copper_pickaxe>, "metallum 5, perfodio 2, permutatio 1");
-mods.thaumcraft.Aspects.set(<simpleores:copper_shovel>, "metallum 3, arbor 2, instrumentum 2, permutatio 2");
+mods.thaumcraft.Aspects.set(<simpleores:copper_pickaxe>, "metallum 5, perfodio 2, arbor 1, permutatio 1");
+mods.thaumcraft.Aspects.set(<simpleores:copper_shovel>, "metallum 3, arbor 1, instrumentum 2, permutatio 2");
 mods.thaumcraft.Aspects.set(<simpleores:copper_sword>, "metallum 4, arbor 1, telum 2, permutatio 2");
 #mods.thaumcraft.Aspects.set(<simpleores:mythril_axe>, "");
 mods.thaumcraft.Aspects.set(<simpleores:mythril_bars>, "metallum 1, vinculum 1, praecantatio 1");
