@@ -20,5 +20,5 @@ mods.thaumcraft.Aspects.set(<ashenwheat:scintillaWheatSheaf> ,"fames 1, messis 2
 mods.thaumcraft.Aspects.set(<ashenwheat:scintillatingAsh> ,"lux 1, sensus 1");
 mods.thaumcraft.Aspects.set(<ashenwheat:thunderSeeds> ,"herba 1");
 mods.thaumcraft.Aspects.set(<ashenwheat:thundergrass> ,"herba 1, ignis 1, perdito 1");
-mods.thaumcraft.Aspects.set(<ashenwheat:unstableSoot> ,"ignis 1, perdito 1);
-#
+mods.thaumcraft.Aspects.set(<ashenwheat:unstableSoot> ,"ignis 1, perdito 1");
+

@@ -169,5 +169,5 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Root Height,Height Variation,Types,Cla
 192,Tainted Land,0.5,0.5,0.1,0.1,0.2,"MAGICAL, WASTELAND",thaumcraft.common.lib.world.biomes.BiomeGenTaint
 193,Magical Forest,0.7,0.6,0.1,0.2,0.2,"MAGICAL, FOREST",thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest
 194,Eerie,0.5,0.5,0.1,0.1,0.2,"SPOOKY, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenEerie
-195,Eldritch,0.5,0.5,0.1,0.1,0.2,"SPOOKY, END, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenEldritchLands
+195,Eldritch,0.5,0.5,0.1,0.1,0.2,"SPOOKY, END, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenEldritch
 207,WyvernBiome,0.5,0.5,0.1,0.3,1.5,"FOREST, MOUNTAIN",drzhark.mocreatures.dimension.BiomeGenWyvernLair

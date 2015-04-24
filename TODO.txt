@@ -10,7 +10,54 @@ TO DO
 - configure Thaumcraft Mob Aspects
 - use ModTweaker to set TC aspects for simple ores/akkamaddi's.
 
+
 --------------
 Install/Update
 --------------
+- DO NOT update Extra utilities until Forge updated to 1355+
 - install Village Taverns 2 if ever updated to 1.7.10
+
+Simple Ores stuff to replace/check:
+-----------------------------------
+---Hadite Steel ingots - 2
+---Cuprum ingot - 5
+---Arsenide Bronze ingot - 2
+---Gestankenzinn ingot - 2 + 2
+---Copper ingot - 20 + 189
+---Bronze ingot - 1 + 14
+---Thyrium ingot - 4
+---Scarlatite Gold ingot -4
+---Illumenite ingot - 6
+---malachite ingot - 6
+---Fyrite ingot - 6
+---Argonite ingot - 24
+---ashstone gem - 7
+---mythril ingot - 24
+---tungsten ingot - 43
+---adamantium ingot - 3
+---cobalt ingot -69
+---tungsten carbide ingot - 5
+---tungsten steel ingot - 2
+---onyx gem - 8
+---Black silver ingot - 16
+---erubescent gold ingot - 2
+---hadite coal - 64
+---tin ingot - 174
+
+---Bronze pickaxe 1 + 1
+---Bronze Axe
+---Tomb Bronze pickaxe
+---Mythril Bow
+---Tomb Bronze pickaxe [Fortune II, Efficiency III]
+---Copper bark spud
+---Tungsten Carbide boots x2
+---Copper chestplate [Protection 1, Unbreaking 1]
+---illumenite leggings
+---gestankenzinn pickaxe
+---tungsten carbide shovel
+
+---Adamantium Grinder
+---Fusion Furnace
+---NO Mythril Furnace - replace with furnace + 8 mythril
+
+

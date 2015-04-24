@@ -1,7 +1,7 @@
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:0.52816904
+gamma:0.5915493
 saturation:0.0
 renderDistance:10
 guiScale:0
@@ -108,6 +108,8 @@ key_key.llor.hotkey:62
 key_ttmisc.toggleArmor:22
 key_TG.keybind.openInv:71
 key_TG.keybind.activeaAbilities:19
+key_key.cofh.empower:47
+key_key.cofh.multimode:46
 key_key.journeymap.map_toggle:36
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
