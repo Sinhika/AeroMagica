@@ -598,7 +598,6 @@ BiblioWoodsBoP:BiblioWoodPaintingT3,646,true,BiblioWoodsBoP,jds.bibliowood.bopwo
 BiblioWoodsBoP:BiblioWoodPaintingT4,647,true,BiblioWoodsBoP,jds.bibliowood.bopwood.blocks.ItemPaintingFrameT4
 ExtrabiomesXL:leaves_1,648,true,ExtrabiomesXL,extrabiomes.items.ItemCustomLeaves
 ExtrabiomesXL:plants4,649,true,ExtrabiomesXL,extrabiomes.items.ItemCatTail
-ExtrabiomesXL:terrain_blocks2,650,true,ExtrabiomesXL,net.minecraft.item.ItemBlock
 ExtrabiomesXL:flower1,651,true,ExtrabiomesXL,extrabiomes.items.ItemFlower
 ExtrabiomesXL:flower2,652,true,ExtrabiomesXL,extrabiomes.items.ItemFlower
 ExtrabiomesXL:flower3,653,true,ExtrabiomesXL,extrabiomes.items.ItemFlower
@@ -1785,6 +1784,10 @@ aesthetics:mythril_bars,1840,true,aesthetics,net.minecraft.item.ItemBlock
 aesthetics:malachite_bricks,1841,true,aesthetics,net.minecraft.item.ItemBlock
 aesthetics:malachite_bars,1842,true,aesthetics,net.minecraft.item.ItemBlock
 aesthetics:malachite_brick_stairs,1843,true,aesthetics,net.minecraft.item.ItemBlock
+machines:onyx_furnace,1844,true,machines,net.minecraft.item.ItemBlock
+machines:mythril_furnace,1845,true,machines,net.minecraft.item.ItemBlock
+machines:mythril_furnace_lit,1846,true,machines,net.minecraft.item.ItemBlock
+machines:onyx_furnace_lit,1847,true,machines,net.minecraft.item.ItemBlock
 minecraft:record_13,2256,false,minecraft,net.minecraft.item.ItemRecord
 minecraft:record_cat,2257,false,minecraft,net.minecraft.item.ItemRecord
 minecraft:record_blocks,2258,false,minecraft,net.minecraft.item.ItemRecord

@@ -466,7 +466,6 @@ BiblioWoodsBoP:BiblioWoodPaintingT3,646,true,null,jds.bibliowood.bopwood.blocks.
 BiblioWoodsBoP:BiblioWoodPaintingT4,647,true,null,jds.bibliowood.bopwood.blocks.BlockCustomPaintingFrameT4
 ExtrabiomesXL:leaves_1,648,true,null,extrabiomes.blocks.BlockAutumnLeaves
 ExtrabiomesXL:plants4,649,true,null,extrabiomes.blocks.BlockCatTail
-ExtrabiomesXL:terrain_blocks2,650,true,null,extrabiomes.blocks.GenericTerrainBlock
 ExtrabiomesXL:flower1,651,true,null,extrabiomes.blocks.BlockCustomFlower
 ExtrabiomesXL:flower2,652,true,null,extrabiomes.blocks.BlockCustomFlower
 ExtrabiomesXL:flower3,653,true,null,extrabiomes.blocks.BlockCustomFlower
@@ -1653,3 +1652,7 @@ aesthetics:mythril_bars,1840,true,null,alexndr.api.content.blocks.SimpleBars
 aesthetics:malachite_bricks,1841,true,null,alexndr.api.content.blocks.SimpleBlock
 aesthetics:malachite_bars,1842,true,null,alexndr.api.content.blocks.SimpleBars
 aesthetics:malachite_brick_stairs,1843,true,null,alexndr.api.content.blocks.SimpleStairs
+machines:onyx_furnace,1844,true,null,alexndr.plugins.Machines.OnyxFurnace
+machines:mythril_furnace,1845,true,null,alexndr.plugins.Machines.MythrilFurnace
+machines:mythril_furnace_lit,1846,true,null,alexndr.plugins.Machines.MythrilFurnace
+machines:onyx_furnace_lit,1847,true,null,alexndr.plugins.Machines.OnyxFurnace
