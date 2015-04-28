@@ -28,6 +28,7 @@
 # new raw turtle entry
 <ore:listAllturtleraw>.add(<Oceancraft:RawTurtleMeat>);
 <ore:listAllturtleraw>.add(<MoCreatures:turtleraw>);
+<ore:listAllturtleraw>.add(<harvestcraft:turtlerawItem>);
 
 # remove MoC turtle soup recipe
 recipes.remove(<MoCreatures:turtlesoup>);
