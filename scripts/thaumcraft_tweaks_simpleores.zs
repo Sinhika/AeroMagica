@@ -284,8 +284,8 @@ mods.thaumcraft.Aspects.set(<aesthetics:tin_bars>, "metallum 1, vinculum 1,  vit
 #
 # Machines
 #
-mods.thaumcraft.Aspects.set(<simpleores:mythril_furnace>, "ignis 2, metallum 6, lucrum 2, praecantatio 2");
-mods.thaumcraft.Aspects.set(<simpleores:mythril_furnace_lit>, "ignis 2, metallum 6, lucrum 2, praecantatio 2");
+mods.thaumcraft.Aspects.set(<machines:mythril_furnace>, "ignis 2, metallum 6, lucrum 2, praecantatio 2");
+mods.thaumcraft.Aspects.set(<machines:mythril_furnace_lit>, "ignis 2, metallum 6, lucrum 2, praecantatio 2");
 mods.thaumcraft.Aspects.set(<machines:onyx_furnace>, "ignis 2, vitreus 6, tenebrae 1, ordo 1");
 mods.thaumcraft.Aspects.set(<machines:onyx_furnace_lit>, "ignis 2, vitreus 6, tenebrae 1, ordo 1");
 #
